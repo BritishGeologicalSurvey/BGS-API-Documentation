@@ -1,7 +1,7 @@
 # Jupyter notebook demo
 jupyter
 notebook
-OWSlib
+OWSLib
 folium
 geopandas
 matplotlib
