@@ -8,7 +8,7 @@ The API is compatible with both ESRI ArcPro & QGIS allowing you a “live” lin
 - [ArcPro](https://pro.arcgis.com/en/pro-app/2.8/help/data/services/add-ogc-api-services.htm)
 - [QGIS](https://docs.qgis.org/3.22/en/docs/training_manual/online_resources/wfs.html)
 
-Swagger API documentation is available - https://ogcapi.bgs.ac.uk/openapi?f=html 
+OpenAPI specification is available through Swagger UI at - https://ogcapi.bgs.ac.uk/openapi?f=html 
 
 Data collections include:
 - [Earthquakes – Recent](https://ogcapi.bgs.ac.uk/collections/recentearthquakes)
