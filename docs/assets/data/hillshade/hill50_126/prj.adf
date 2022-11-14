@@ -1,8 +1,0 @@
-Projection    GREATBRITAIN_GRID
-Datum         OGB
-Spheroid      AIRY
-Units         METERS
-Zunits        METERS
-Xshift        0.0
-Yshift        0.0
-Parameters    

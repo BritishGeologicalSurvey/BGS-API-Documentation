@@ -1,3 +1,0 @@
-<PAMDataset>
-  <SRS>PROJCS[&quot;British_National_Grid&quot;,GEOGCS[&quot;GCS_OSGB_1936&quot;,DATUM[&quot;OSGB_1936&quot;,SPHEROID[&quot;Airy_1830&quot;,6377563.396,299.3249646]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Transverse_Mercator&quot;],PARAMETER[&quot;False_Easting&quot;,400000.0],PARAMETER[&quot;False_Northing&quot;,-100000.0],PARAMETER[&quot;Central_Meridian&quot;,-2.0],PARAMETER[&quot;Scale_Factor&quot;,0.9996012717],PARAMETER[&quot;Latitude_Of_Origin&quot;,49.0],UNIT[&quot;Meter&quot;,1.0]]</SRS>
-</PAMDataset>
