@@ -1,1 +1,5 @@
 - [BGS Open API - Features](content/features_api/features_api)
+- [BGS Open API - Tiles](content/tiles_api/tiles_api)
+- [BGS Open API - Styles](content/styles_api/styles_api)
+- [BGS Maps API](content/maps_api/maps_api)
+- [BGS Sensors API](content/sensors_api/sensors_api)
