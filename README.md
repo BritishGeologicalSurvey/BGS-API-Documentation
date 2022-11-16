@@ -18,7 +18,7 @@ Data collections include:
 - [Borehole Records (SOBI)](https://ogcapi.bgs.ac.uk/collections/onshoreboreholeindex)
 - [Offshore Hydrocarbon Wells](https://ogcapi.bgs.ac.uk/collections/offshore-hydrocarbon-wells)
 
-For further documentations see OS which use the same protacol
+For further documentations see OS which use the same protocol
 - https://labs.os.uk/public/osngd/os-ngd-api-features/
 - https://labs.os.uk/public/osngd/os-ngd-api-features/code-playground/#template-leaflet
 - https://labs.os.uk/public/osngd/os-ngd-api-features/examples/items.html#filter=bbox,datetime
