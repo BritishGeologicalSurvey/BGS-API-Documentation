@@ -5,3 +5,4 @@ OWSLib
 folium
 geopandas
 matplotlib
+requests
