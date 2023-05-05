@@ -1,4 +1,4 @@
-# BGS Open API - Tiles
+# BGS OpenGeoscience API - Tiles
 
 ## Vector Tiles
 
