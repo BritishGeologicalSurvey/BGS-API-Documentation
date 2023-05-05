@@ -1,5 +1,5 @@
 - [BGS OpenGeoscience API - Features](content/features_api/features_api)
 - [BGS OpenGeoscience API - Tiles](content/tiles_api/tiles_api)
 - [BGS OpenGeoscience API - Styles](content/styles_api/styles_api)
-- [BGS Maps API (WMS)](content/maps_api/maps_api)
+- [BGS Maps API - WMS](content/maps_api/maps_api)
 - [BGS Sensors API](content/sensors_api/sensors_api)
