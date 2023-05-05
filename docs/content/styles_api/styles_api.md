@@ -1,4 +1,4 @@
-# BGS Open API - Styles
+# BGS OpenGeoscience API - Styles
 
 Coming Soon!
 
