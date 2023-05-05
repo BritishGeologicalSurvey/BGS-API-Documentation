@@ -2,8 +2,8 @@
 
 ## Vector Tiles
 
-Coming Soon!
+TBC
 
 ## Map Tiles
 
-*Coming Soon!*
+TBC
