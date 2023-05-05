@@ -1,4 +1,4 @@
-# BGS Open API - Features
+# BGS OpenGeoscience API - Features
 
 How to use
 
