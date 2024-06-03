@@ -58,7 +58,7 @@ Users don't have to URL encode the queries - the following will also work if cop
 In the `notebook` folder we have a few example Jupyter Notebooks showing how you can interact with our data.
 
 Follow the instructions below to install and run the demonstration Jupyter Notebook on your own
-machine.  Alternatively, you can [view the code and results](notebooks\ogcapi-features-cql-owslib-earthquakes.ipynb) in your browser.  Click [here](https://nbviewer.org/github/BritishGeologicalSurvey/BGS-OGCAPI-Documentation/blob/main/notebooks/ogcapi-features-cql-owslib-earthquakes.ipynb) for mobile-friendly version rendered by _Jupyter nbviewer_.
+machine.  Alternatively, you can [view the code and results](notebooks/ogcapi-features-cql-owslib-earthquakes.ipynb) in your browser.  Click [here](https://nbviewer.org/github/BritishGeologicalSurvey/BGS-OGCAPI-Documentation/blob/main/notebooks/ogcapi-features-cql-owslib-earthquakes.ipynb) for mobile-friendly version rendered by _Jupyter nbviewer_.
 
 ## Prerequisites
 
