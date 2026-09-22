@@ -1,0 +1,74 @@
+name: Aquifer designation
+slug: aquifer-designation
+theme: hydrogeology
+portfolio_pages:
+- 79
+- 80
+overview: BGS’s aquifer designation dataset defines bedrock and superficial aquifers for England and Wales,
+  identifying where geological units act as principal or secondary aquifers or unproductive strata, based
+  on their ability to store and transmit groundwater. These designations were developed in collaboration
+  with the Environment Agency and underpin national groundwater management policy, supporting decisions
+  about abstraction, protection and land-use planning. The dataset provides a consistent, authoritative
+  framework for understanding groundwater resources at regional and local scales.
+benefits:
+- text: Provides a standardised national classification of aquifers used by regulators, planners and consultants
+- text: Helps determine the importance of groundwater resources in a given area
+- text: Supports risk assessments for pollution, abstraction and development
+- text: Informs planning decisions, especially where groundwater protection zones or sensitive aquifers
+    are present
+- text: Helps identify where groundwater may be a viable water supply source
+- text: Reduces uncertainty by offering a clear, policy-aligned interpretation of geological units
+features:
+- text: National coverage for England and Wales
+- text: 1:50 000 scale (±50 m)
+- text: 'Classification of aquifer type as: rather than strategic scale'
+  sub:
+  - 'principal: deposits that provide a high level of water storage'
+  - 'secondary: deposits that can support water supplies at a local'
+- text: Assessment of both bedrock and superficial deposits
+- text: GIS vector format for ease of geospatial analysis
+- text: Consistent methodology aligned with regulatory frameworks
+- text: Free to view online
+licencing:
+- heading: null
+  text: Available to view via the Defra Magic Portal (England) and the BGS GeoIndex (Wales).
+- heading: Indicative pricing for internal business use
+  text: £0.35 per km²
+- heading: null
+  text: (Subject to number of users, licence fee and data preparation fee.)
+- heading: null
+  text: Non-commercial users should contact the Environment Agency (for England) or Natural Resources
+    Wales (for Wales) for access.
+- heading: null
+  text: Please get in touch (digitaldata@bgs.ac.uk) for further information on using BGS data for other
+    purposes, including re-selling.
+- heading: Access via a BGS data re-seller
+  text: Find a full list of BGS re-sellers on our website.
+target_markets:
+- text: Environmental consultants
+- text: Local authorities and planners
+- text: Water companies
+- text: Environmental regulators
+- text: Researchers studying groundwater systems and resource management
+challenges:
+- text: Difficulty differentiating aquifer types without specialist hydrogeological knowledge
+- text: Regulatory requirements to assess groundwater impacts in planning and environmental permitting
+- text: Uncertainty about abstraction potential, especially in areas with complex geology
+- text: Challenges identifying pollution sensitive aquifers, particularly where superficial deposits obscure
+    bedrock
+- text: Need for early-stage screening before detailed hydrogeological investigations are commissioned
+use_cases:
+- text: 'Pollution risk assessments: evaluating the vulnerability of groundwater to contamination from
+    industrial or agricultural activities'
+- text: 'Water resource planning: identifying areas with potential for new groundwater abstraction'
+- text: 'Infrastructure design: screening routes for aquifer sensitivity to avoid contamination or dewatering
+    impacts'
+- text: 'Environmental permitting: supporting decisions for waste sites, fuel storage or discharge to
+    land'
+- text: 'Catchment management: understanding how aquifer types influence recharge, flow and water availability'
+links:
+  web_page: https://mapapps2.bgs.ac.uk/geoindex/home.html?_ga=2.167550974.19902566.1787842672-1190812310.1787842672
+  user_guide_source: https://www.bgs.ac.uk/download/aquifer-designation-data-customer-information-note-wales/
+  enquiry: mailto:digitaldata@bgs.ac.uk?subject=BGS%20Aquifer%20designation%20licence%20enquiry%20
+  resellers: null
+image: assets/products/aquifer-designation.webp

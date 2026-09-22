@@ -1,0 +1,76 @@
+name: UK stream sediment geochemistry
+slug: uk-stream-sediment-geochemistry
+theme: geochemistry
+portfolio_pages:
+- 41
+- 42
+overview: BGS’s UK stream sediment geochemistry dataset models the chemical composition of stream sediments
+  across the UK. Stream sediments act as natural collectors of material eroded from surrounding rocks
+  and soils, providing an integrated picture of catchment-scale geochemistry. Concentrations of 18 major
+  and trace elements, such as calcium, magnesium, cobalt and nickel, derived from 110 794 sediment samples
+  from small streams across the UK, are interpolated to produce national element concentration maps. These
+  offer a high-quality geochemical baseline with applications for environmental assessment, mineral exploration,
+  land-use planning and pollution monitoring.
+benefits:
+- text: A consistent national baseline for environmental monitoring and regulatory compliance
+- text: Captures catchment-scale geochemical signatures, helping identify natural and anthropogenic sources
+    of elements such as metals
+- text: Evidence for mineral prospectivity, as stream sediments can highlight geochemical anomalies linked
+    to mineralisation
+- text: Support for pollution detection, especially downstream of industrial, mining or agricultural areas
+- text: High-quality, laboratory-verified data that improves the accuracy of environmental modelling and
+    risk assessments
+- text: A complementary dataset to soil and water geochemistry, enabling multi-evidential approach to
+    environmental analysis
+features:
+- text: National coverage across the UK with systematic sampling of stream sediments
+- text: Modelled element concentrations provided for 18 key elements as wt% or mg/kg, with supporting
+    standard deviation values as an indicator of associated uncertainty
+- text: Geochemical predictions on a regular 500 × 500 m grid with supporting information on regional
+    sample density and appropriate scale of use
+- text: GIS raster formats supporting geospatial analysis with an image atlas available for reference
+- text: In addition to the 18 elements presented as national maps, baseline stream sediment data is available
+    for a more extensive suite of elements with incomplete national coverage
+- text: Baseline values that help distinguish natural geochemical patterns from contamination in stream
+    sediments
+licencing:
+- heading: null
+  text: Gridded data is available for commercial, research and public use under Open Government Licence
+    .
+- heading: null
+  text: Underpinning survey point data is available under licence on request. There is no charge for this
+    data, but it is subject to a data preparation fee.
+- heading: null
+  text: Please get in touch (digitaldata@bgs.ac.uk) for more information.
+target_markets:
+- text: Environmental consultants
+- text: Regulators and environmental protection agencies
+- text: Local authorities and planners
+- text: Researchers studying geochemistry, pollution pathways and catchment processes
+- text: Water industry professionals
+- text: Conservation and ecology organisations
+challenges:
+- text: Difficulty distinguishing natural geochemical signatures from contamination, especially in areas
+    with historic mining
+- text: Lack of consistent catchment-scale data, making it hard to interpret sediment sample analyses
+- text: Regulatory pressure to demonstrate compliance with environmental standards for water and sediment
+    quality
+- text: Uncertainty in mineral exploration, where geochemical indicators are essential for early-stage
+    reconnaissance
+- text: Fragmented or outdated local datasets, which may not reflect current environmental conditions
+- text: Challenges in assessing ecological and human health risks without robust geochemical context
+use_cases:
+- text: 'Pollution tracing: identifying elevated metal concentrations downstream of industrial sites,
+    landfills or abandoned mines'
+- text: 'Mineral exploration: detecting geochemical anomalies that may indicate mineralisation in upstream
+    catchments'
+- text: 'Catchment management: supporting river-basin planning and water-quality assessments'
+- text: 'Environmental impact assessments: baseline data for developments near rivers and streams'
+- text: 'Long term monitoring: tracking changes in sediment chemistry due to land-use change or remediation'
+- text: 'Academic study: sediment transport, geochemical cycling and environmental change research'
+links:
+  web_page: https://www.bgs.ac.uk/bgs-intellectual-property-rights/open-government-licence/
+  user_guide_source: https://www.bgs.ac.uk/datasets/uk-stream-sediment-geochemistry/#download
+  enquiry: mailto:digitaldata@bgs.ac.uk?subject=BGS%20Stream%20sediment%20geochemistry%20licence%20enquiry
+  resellers: null
+image: assets/products/uk-stream-sediment-geochemistry.webp

@@ -1,0 +1,76 @@
+name: 'BGS Civils: foundation conditions'
+slug: bgs-civils-foundation-conditions
+theme: engineering-geology
+portfolio_pages:
+- 31
+- 32
+overview: 'BGS Civils: foundation conditions assesses how near-surface geological materials across Great
+  Britain are likely to behave as foundations for buildings and infrastructure. It translates 1:50 000
+  - scale geological mapping and engineering geology knowledge into practical indicators of ground performance,
+  including bearing capacity, settlement potential, strength and volume change potential. The dataset
+  is part of the wider BGS Civils suite, which provides engineering-relevant geological intelligence for
+  early-stage design, asset management and risk assessment.'
+benefits:
+- text: Early identification of ground that may cause excessive settlement or low bearing capacity
+- text: Better planning for foundation type selection, such as shallow footings, rafts or piles
+- text: More accurate cost and programme forecasting, reducing the likelihood of unexpected ground-related
+    delays
+- text: Improved risk management for developments in areas with variable or weak geology
+- text: Consistent national-scale intelligence that complements site - specific geotechnical testing
+features:
+- text: National coverage across Great Britain
+- text: 1:50 000 scale (±50 m)
+- text: 'Foundation behaviour classification considering: or high chloride content'
+  sub:
+  - strength or bearing capacity
+  - subsidence or collapse due to dissolution
+  - volume change in clays during foundation excavation
+  - settlement (compressibility) and differential settlement
+  - weathering and alteration
+  - aggressive ground conditions of soluble sulfate, sulfide, low pH
+- text: GIS vector format for ease of geospatial analysis
+- text: Consistent classification based on BGS’s engineering geology expertise and geotechnical literature
+- text: Part of the BGS Civils suite, which can be combined with datasets about geological materials and
+    their engineering characteristics
+licencing:
+- heading: Indicative pricing for internal business use
+  text: 'BGS Civils bundle: £0.58'
+- heading: null
+  text: 'Individual layers: £0.35'
+- heading: null
+  text: Prices per km²
+- heading: null
+  text: (Subject to number of users, licence fee and data preparation fee.)
+- heading: null
+  text: Please get in touch (digitaldata@bgs.ac.uk) for further information on using BGS data for other
+    purposes, including re-selling.
+- heading: Access via a BGS data re-seller
+  text: Find a full list of BGS re-sellers on our website.
+target_markets:
+- text: Civil and geotechnical engineers
+- text: Local authorities and planners
+- text: Contractors and developers
+- text: Asset owners
+challenges:
+- text: Unexpected foundation failures or redesigns cause costly changes late in a project
+- text: Limited early-stage ground information ahead of site investigation or land acquisition
+- text: Fragmented or inconsistent data on all factors influencing foundation behaviour
+- text: Differential settlement resulting from geological variation over short distances, creating uneven
+    ground performance
+- text: Regulatory requirements to provide evidence of ground suitability and risk mitigation
+use_cases:
+- text: 'Land-use modelling: identifying areas where housing developments are more or less likely to require
+    special foundation design'
+- text: 'Housing development feasibility: identifying whether specific foundation designs are more or
+    less suitable, or whether alternatives are possible'
+- text: 'Ground investigation planning: understanding where ground conditions are impacting foundation
+    design and will need exploratory investigation'
+- text: 'Cost modelling: estimating likely foundation complexity to inform early project budgets'
+- text: 'Retrospective assessment: supporting investigation of a developed site experiencing foundation
+    issues'
+links:
+  web_page: https://www.bgs.ac.uk/datasets/bgs-civils-foundation-conditions/
+  user_guide_source: https://www.bgs.ac.uk/datasets/bgs-civils-foundation-conditions/#download
+  enquiry: mailto:digitaldata@bgs.ac.uk?subject=BGS%20Civils%20licence%20enquiry
+  resellers: https://www.bgs.ac.uk/information-hub/licensing/#resellers
+image: assets/products/bgs-civils-foundation-conditions.webp

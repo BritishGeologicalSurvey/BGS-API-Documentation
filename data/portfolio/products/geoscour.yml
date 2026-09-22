@@ -1,0 +1,87 @@
+name: GeoScour
+slug: geoscour
+theme: hazards
+portfolio_pages:
+- 59
+- 60
+overview:
+- text: 'Tier 1: a summary overview of the catchment characteristics'
+- text: 'Tier 2: subcatchment-scale summaries of key characteristics, including:'
+  sub:
+  - erosion susceptibility
+  - geological run-off potential
+  - flood accommodation capacity
+  - catchment morphology
+- text: 'Tier 3: information for individual stretches of river: percentage of reach classed as bedrock,
+    strength and composition of that bedrock deposits that make up the riverbed riverbank material to
+    erosion'
+  sub:
+  - geological properties of the riverbed and banks, such as
+  - susceptibility to erosion of both the superficial and bedrock
+  - river morphology classifiers
+  - susceptibility to lateral erosion, that is, susceptibility of the
+benefits:
+- text: A nationally consistent assessment of scour susceptibility for rivers and floodplains
+- text: Multi-tier offering allows for assessments at different scales
+- text: Evidence to support infrastructure design, maintenance and resilience planning, especially for
+    bridges, pipelines and transport corridors
+- text: Insight into geomorphological factors that influence erosion, sediment transport and channel stability
+- text: Support for flood-risk management, as scour often intensifies during high flow events
+- text: A way to integrate geological and geomorphological intelligence into asset management systems
+    and environmental assessments
+features:
+- text: National coverage across Great Britain’s river network
+- text: Tier 3 is 1:50 000 scale (±50 m) and aligns to the OS Open Rivers Watercourse dataset for easy
+    integration with other riverine datasets
+- text: Open access to data for tiers 1 and 2
+- text: GIS vector format for ease of geospatial analysis
+- text: Scour susceptibility classification based on geomorphology, hydrology, geology and topography
+- text: Provision of the average, best - and worst-case erosion susceptibility classes per river reach
+    to convey the variation and heterogeneous behaviour of geological deposits and to allow the user to
+    consider both end members for scour potential according to their needs
+- text: Consistent methodology, enabling comparison across catchments and regions
+- text: Designed for early-stage assessment, complementing site-specific hydraulic or geotechnical studies
+licencing:
+- heading: Indicative pricing for internal business use
+  text: Tier 3 priced per catchment based on river length
+- heading: null
+  text: 'Band 0.5 (catchment with river length less than 500 km): £56.78'
+- heading: null
+  text: 'Band 1 (catchment with river length less than 500 km): £113.56'
+- heading: null
+  text: 'Band 2 (catchment with river length between 500 and 1400 km) : £227.12'
+- heading: null
+  text: 'Band 3 (catchment with river length greater than 1400 km): £340.67'
+- heading: null
+  text: Please get in touch (digitaldata@bgs.ac.uk) for further information on using BGS data for other
+    purposes, including re-selling.
+- heading: Access via a BGS data re-seller
+  text: Find a full list of BGS re-sellers on our website.
+target_markets:
+- text: Transport and utilities infrastructure owners and • Local authorities and planners operators
+- text: Water industry professionals
+- text: Flood and erosion risk modellers
+- text: Researchers studying river processes and
+- text: Civil, environmental and geotechnical engineers sediment dynamics
+- text: Environmental agencies
+challenges:
+- text: Limited sediment-supply proxy data for river erosion modelling
+- text: Increasing climate-driven extremes, which intensify erosion and channel instability
+- text: High maintenance and repair costs when scour is not identified early
+- text: Regulatory and safety pressures requiring evidence-based assessment of river-related hazards
+- text: Difficulty predicting channel behaviour, especially in complex or geologically diverse catchments
+use_cases:
+- text: 'Bridge/culvert design: identifying where scour potential requires additional design considerations'
+- text: 'Flood risk assessments: assessing where erosion may alter channel capacity or redirect flow'
+- text: 'Asset management prioritisation: targeting inspections and maintenance'
+- text: 'Catchment management: supporting river restoration or erosion control strategies'
+- text: 'Emergency response planning: identifying vulnerable assets during extreme rainfall or flooding
+    Contact Web page QR code Further information To make an enquiry about > Web page licencing this data,
+    please > User guide fill out a contact form, which can be accessed > Sample data via the Licence this
+    data > Open data link on the web page, or > Metadata email digitaldata@bgs.ac.uk .'
+links:
+  web_page: https://www.bgs.ac.uk/datasets/bgs-geoscour-premium/#access
+  user_guide_source: https://www.bgs.ac.uk/download/bgs-geoscour-user-guide/
+  enquiry: mailto:digitaldata@bgs.ac.uk?subject=BGS%20GeoScour%20licence%20enquiry
+  resellers: null
+image: assets/products/geoscour.webp

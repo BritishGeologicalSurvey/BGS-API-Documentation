@@ -1,0 +1,196 @@
+/* ==========================================================================
+   BGS brand layer for Material/Zensical, matched to the 2026–27 Product Portfolio
+   Values measured from the portfolio PDF (colours sampled at 300 dpi; sizes in
+   pt converted at 1pt = 1.333px). See docs/contributing/brand.md.
+   ========================================================================== */
+
+/* --- Typeface -------------------------------------------------------------
+   Aileron (Dot Colon, CC0 1.0) is the BGS brand typeface: it is the face embedded
+   in the BGS logo guidelines (Light / SemiBold / Bold) and matches the rasterised
+   text in the 2026–27 portfolio. Self-hosted: no third-party font requests.     */
+@font-face { font-family: "Aileron"; font-weight: 300; font-display: swap; src: url("../assets/fonts/aileron-latin-300-normal.woff2") format("woff2"); }
+@font-face { font-family: "Aileron"; font-weight: 400; font-display: swap; src: url("../assets/fonts/aileron-latin-400-normal.woff2") format("woff2"); }
+@font-face { font-family: "Aileron"; font-weight: 600; font-display: swap; src: url("../assets/fonts/aileron-latin-600-normal.woff2") format("woff2"); }
+@font-face { font-family: "Aileron"; font-weight: 700; font-display: swap; src: url("../assets/fonts/aileron-latin-700-normal.woff2") format("woff2"); }
+
+/* --- Tokens --------------------------------------------------------------- */
+:root {
+  /* Primary (match docs/style/bgs-colours.css in the old site and bgs.ac.uk theme-color) */
+  --bgs-earth: #002e40;      /* header band, headings, rules          */
+  --bgs-stone: #ad9c70;      /* kicker text, 4.3pt rule under header  */
+  --bgs-white: #ffffff;
+  --bgs-black: #000000;      /* body text                              */
+  /* Surfaces measured from the portfolio */
+  --bgs-panel: #e5e9eb;      /* Licencing / Contact panels             */
+  --bgs-paper: #ececec;      /* contents + divider pages               */
+  /* Links: brand "sea". NB contrast is 4.01:1 on white and 3.28:1 on the
+     #E5E9EB panels, below WCAG 2.2 AA (4.5:1) for body-size text. The darker
+     sea #3F6B74 passes on every surface used here (>= 4.82:1) if needed.     */
+  --bgs-link: #528791;
+  /* Secondary palette (from bgs-colours.css) */
+  --bgs-lichen: #99b096; --bgs-sky: #7391bf; --bgs-sea: #528791; --bgs-grass: #8cb052;
+  --bgs-haze: #d48080; --bgs-clay: #b87d33; --bgs-amber: #f0a845; --bgs-sand: #c4bd9c;
+  --bgs-rock: #a8a8a1; --bgs-secondary-earth: #998a82; --bgs-slate: #808082;
+
+  --bgs-font: "Aileron", Arial, Helvetica, sans-serif;
+  --bgs-body-weight: 400;    /* portfolio body = Aileron Regular; guideline body copy = Light */
+  --bgs-rule-header: 6px;    /* 4.3pt */
+  --bgs-rule-heading: 1px;   /* 0.75pt */
+}
+
+/* --- Map onto Material/Zensical variables --------------------------------- */
+[data-md-color-scheme="bgs"] {
+  --md-primary-fg-color: var(--bgs-earth);
+  --md-primary-fg-color--light: #1a4d61;
+  --md-primary-fg-color--dark: #00202d;
+  --md-primary-bg-color: var(--bgs-white);
+  --md-accent-fg-color: var(--bgs-stone);
+  --md-typeset-a-color: var(--bgs-link);
+  --md-default-fg-color: var(--bgs-black);
+  --md-default-fg-color--light: #3c3c3c;
+  --md-footer-bg-color: var(--bgs-earth);
+  --md-footer-bg-color--dark: #00202d;
+  --md-text-font: "Aileron";
+  --md-code-font: ui-monospace, "Cascadia Code", Consolas, monospace;
+}
+body, .md-typeset { font-family: var(--bgs-font); }
+.md-typeset { font-size: .78rem; line-height: 1.55; font-weight: var(--bgs-body-weight); color: var(--bgs-black); }
+.md-typeset strong, .md-typeset b { font-weight: 600; }
+.md-typeset h1, .md-typeset h2, .md-typeset h3, .md-typeset h4 {
+  font-family: var(--bgs-font); font-weight: 700; color: var(--bgs-earth); letter-spacing: 0;
+}
+.md-typeset a { color: var(--bgs-link); text-decoration: underline; text-underline-offset: .15em; }
+.md-typeset a:hover { color: var(--bgs-earth); }
+
+/* --- Header: navy band + stone rule, like every portfolio page ------------
+   Logo rules (BGS logo guidelines p4–5): Primary Reversed on dark; minimum
+   120px wide on screen; clear space X = height of the "BGS" letters (~20% of
+   logo height) on all sides, so nothing (title, search) may sit inside it.  */
+:root { --bgs-logo-h: 56px; --bgs-logo-x: 12px; }   /* 56px tall = 134px wide */
+.md-header { background: var(--bgs-earth); box-shadow: none; }
+.md-header__inner { height: calc(var(--bgs-logo-h) + 2 * var(--bgs-logo-x)); padding: 0 .4rem; }
+.md-header__button.md-logo { padding: var(--bgs-logo-x); margin: 0 var(--bgs-logo-x) 0 0; }
+.md-header__button.md-logo img, .md-header__button.md-logo svg { height: var(--bgs-logo-h); width: auto; }
+.md-header__title { font-weight: 400; font-size: .85rem; margin-left: 0; }
+.md-tabs { background: var(--bgs-earth); border-bottom: var(--bgs-rule-header) solid var(--bgs-stone); }
+.md-tabs__link { font-size: .75rem; opacity: .85; font-weight: 400; }
+.md-tabs__link--active, .md-tabs__item--active .md-tabs__link { opacity: 1; font-weight: 700; color: var(--bgs-white); }
+.md-tabs__link:hover { color: var(--bgs-stone); }
+@media screen and (max-width: 76.2344em) {
+  .md-header { border-bottom: var(--bgs-rule-header) solid var(--bgs-stone); }
+  .md-header__inner { height: 3.2rem; }   /* logo moves to the drawer on small screens */
+}
+
+.md-nav__link--active, .md-nav__item .md-nav__link--active { color: var(--bgs-earth); font-weight: 600; }
+.md-nav__title { color: var(--bgs-earth); }
+
+/* --- Product page hero (portfolio page header) ---------------------------- */
+.md-typeset .bgs-hero {
+  background: var(--bgs-earth); color: var(--bgs-white);
+  margin: -1.2rem -1.2rem 1.6rem; padding: 1.1rem 1.2rem 1.2rem;
+  border-bottom: var(--bgs-rule-header) solid var(--bgs-stone);
+}
+.md-typeset .bgs-kicker {
+  margin: 0; color: var(--bgs-stone); text-transform: uppercase; font-weight: 400;
+  font-size: .8rem; letter-spacing: .01em;
+}
+.md-typeset .bgs-hero h1 { color: var(--bgs-white); margin: .15rem 0 0; font-size: 1.6rem; line-height: 1.15; }
+.md-typeset .bgs-badge {
+  display: inline-block; vertical-align: middle; margin-left: .6rem; padding: .1rem .5rem;
+  font-size: .6rem; font-weight: 600; background: var(--bgs-stone); color: var(--bgs-earth);
+  text-transform: uppercase; letter-spacing: .03em;
+}
+
+/* --- Product layout: main column + sidebar, like the front of each card --- */
+.md-typeset .bgs-product { display: grid; grid-template-columns: minmax(0, 1fr) 15.5rem; gap: 1.6rem; }
+@media (max-width: 60em) { .md-typeset .bgs-product { grid-template-columns: 1fr; } }
+
+.md-typeset .bgs-section h2,
+.md-typeset .bgs-side h2,
+.md-typeset .bgs-panel h2 {
+  font-size: .95rem; margin: 0 0 .55rem; padding-bottom: .2rem;
+  border-bottom: var(--bgs-rule-heading) solid var(--bgs-earth);
+}
+.md-typeset .bgs-section { margin-bottom: 1.3rem; }
+.md-typeset .bgs-section p { margin: 0; }
+.md-typeset .bgs-section ul { margin: 0; padding-left: 0; list-style: none; }
+.md-typeset .bgs-section ul > li { margin: 0 0 .45rem 0; padding-left: 1.05rem; position: relative; }
+.md-typeset .bgs-section ul > li::before { content: "•"; position: absolute; left: .15rem; color: var(--bgs-black); }
+.md-typeset .bgs-section ul.bgs-sub { columns: 2; column-gap: 1.5rem; margin-top: .35rem; }
+.md-typeset .bgs-section ul.bgs-sub > li { break-inside: avoid; }
+.md-typeset .bgs-section ul.bgs-sub > li { margin-bottom: .25rem; }
+.md-typeset .bgs-section ul.bgs-sub > li::before { content: "▪"; font-size: .7em; top: .2em; }
+
+.md-typeset .bgs-side img { width: 100%; display: block; margin-bottom: 1.1rem; }
+.md-typeset .bgs-panel { background: var(--bgs-panel); padding: .9rem 1rem 1rem; margin-bottom: 1.2rem; }
+.md-typeset .bgs-panel h2 { width: 75%; }
+.md-typeset .bgs-panel p { margin: 0 0 .35rem; }
+.md-typeset .bgs-panel .bgs-panel-sub { font-weight: 400; margin-top: .8rem; }
+.md-typeset .bgs-panel .bgs-panel-sub:first-of-type { margin-top: 0; }
+.md-typeset .bgs-further a { display: block; margin: .35rem 0; }
+.md-typeset .bgs-contact { margin-top: 1.8rem; }
+.md-typeset .bgs-source { font-size: .65rem; color: #5a5a5a; margin-top: 1.5rem; }
+
+/* --- Theme divider page ----------------------------------------------------- */
+.md-typeset .bgs-divider { display: grid; grid-template-columns: 1fr 1fr; margin: -1.2rem -1.2rem 1.5rem; }
+.md-typeset .bgs-divider-art { background: var(--bgs-paper); display: flex; flex-direction: column; }
+.md-typeset .bgs-divider-circle { background: var(--bgs-earth); padding: 1.8rem 1.6rem; border-bottom: var(--bgs-rule-header) solid var(--bgs-stone); }
+.md-typeset .bgs-divider-circle img { width: 82%; display: block; margin: 0 auto; }
+.md-typeset .bgs-divider-art h1 {
+  margin: 0; padding: 1.6rem 1.6rem 1.8rem; text-transform: uppercase; font-size: 2.2rem; line-height: 1.05; color: var(--bgs-earth);
+}
+.md-typeset .bgs-divider-text { background: var(--bgs-paper); padding: 1.8rem 1.6rem; font-size: .85rem; }
+.md-typeset .bgs-divider-list { list-style: none; padding: 0; margin: 0; }
+.md-typeset .bgs-divider-list li { margin: 0 0 .9rem; padding: 0; }
+@media (max-width: 60em) { .md-typeset .bgs-divider { grid-template-columns: 1fr; } }
+
+.md-typeset .bgs-cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(10rem, 1fr)); gap: 1rem; }
+.md-typeset a.bgs-card { display: block; text-decoration: none; color: var(--bgs-earth); background: var(--bgs-panel); }
+.md-typeset a.bgs-card img, .md-typeset .bgs-card-noimg { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; display: block; background: var(--bgs-earth); }
+.md-typeset a.bgs-card span { display: block; padding: .5rem .6rem .6rem; font-weight: 600; font-size: .75rem; }
+.md-typeset a.bgs-card:hover span { background: var(--bgs-earth); color: var(--bgs-white); }
+
+/* --- Products landing = portfolio cover + contents ------------------------ */
+.md-typeset .bgs-cover {
+  display: grid; grid-template-columns: 1fr 1fr; align-items: center; gap: 1rem;
+  background: var(--bgs-earth); margin: -1.2rem -1.2rem 0; padding: 2rem 2.4rem;
+}
+.md-typeset .bgs-cover-art img { width: 100%; max-width: 26rem; display: block; }
+.md-typeset .bgs-cover-year { margin: 0; color: var(--bgs-stone); font-weight: 700; font-size: 1.9rem; }
+.md-typeset .bgs-cover-name { margin: 0; color: var(--bgs-white); font-weight: 700; font-size: 3.2rem; line-height: 1.05; text-transform: uppercase; }
+.md-typeset .bgs-contents { background: var(--bgs-paper); margin: 0 -1.2rem; padding: 1.6rem 2.4rem 2rem; }
+.md-typeset .bgs-contents-title { font-size: 1.3rem; font-weight: 600; margin: 0 0 1rem; }
+.md-typeset .bgs-contents-grid { columns: 2 18rem; column-gap: 3rem; }
+.md-typeset .bgs-contents-group { break-inside: avoid; margin-bottom: 1.4rem; }
+.md-typeset .bgs-contents-group h2 { font-size: .95rem; margin: 0 0 .3rem; }
+.md-typeset .bgs-contents-group h2 a { color: var(--bgs-earth); }
+.md-typeset .bgs-contents-group ul { list-style: none; margin: 0; padding: 0; }
+.md-typeset .bgs-contents-group li { margin: 0 0 .3rem; }
+@media (max-width: 60em) { .md-typeset .bgs-cover { grid-template-columns: 1fr; } .md-typeset .bgs-cover-name { font-size: 2.2rem; } }
+
+/* --- User guide (embedded PDF) --------------------------------------------- */
+.md-typeset .bgs-guide-meta { display: flex; flex-wrap: wrap; gap: .8rem; align-items: center; }
+.md-typeset .bgs-guide-meta .md-button { margin-left: auto; }
+.md-typeset .md-button--primary { background: var(--bgs-earth); border-color: var(--bgs-earth); color: var(--bgs-white); text-decoration: none; }
+.md-typeset .md-button--primary:hover { background: var(--bgs-stone); border-color: var(--bgs-stone); color: var(--bgs-earth); }
+.md-typeset .bgs-pdf { width: 100%; height: 85vh; border: 1px solid var(--bgs-panel); }
+
+/* --- Home tiles ----------------------------------------------------------- */
+.md-typeset .bgs-tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr)); gap: 1rem; }
+.md-typeset a.bgs-tile { display: block; padding: 1rem 1.1rem; background: var(--bgs-panel); text-decoration: none; color: var(--bgs-black); border-top: var(--bgs-rule-header) solid var(--bgs-stone); }
+.md-typeset a.bgs-tile strong { display: block; color: var(--bgs-earth); font-weight: 700; font-size: .95rem; margin-bottom: .3rem; }
+.md-typeset a.bgs-tile:hover { background: var(--bgs-earth); color: var(--bgs-white); }
+.md-typeset a.bgs-tile:hover strong { color: var(--bgs-stone); }
+
+/* --- Print: product page prints as the one-pager card ---------------------- */
+@media print {
+  .md-typeset .bgs-hero { -webkit-print-color-adjust: exact; print-color-adjust: exact; margin: 0 0 1rem; }
+  .md-typeset .bgs-panel { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  .md-typeset .bgs-product { grid-template-columns: minmax(0, 1fr) 14rem; }
+}
+
+/* --- Generated pages: hide chrome that doesn't apply ------------------------ */
+.bgs-sr { position: absolute !important; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+.md-content__inner:has(.bgs-hero, .bgs-cover, .bgs-divider) > .md-content__button { display: none; }
+.md-typeset ul.bgs-divider-list > li, .md-typeset .bgs-contents-group ul > li { margin-left: 0; }
+.md-typeset .bgs-divider-list .bgs-badge, .md-typeset .bgs-contents-group .bgs-badge, .md-typeset a.bgs-card .bgs-badge { font-size: .55rem; margin-left: .4rem; padding: .05rem .35rem; }

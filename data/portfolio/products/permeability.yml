@@ -1,0 +1,73 @@
+name: Permeability
+slug: permeability
+theme: hydrogeology
+portfolio_pages:
+- 89
+- 90
+overview: BGS’s permeability dataset qualitatively assesses the permeability characteristics of superficial
+  deposits and bedrock geology across Great Britain. Permeability is the capacity of a rock to transmit
+  a fluid. The dataset classifies how easily water can move vertically through the ground based on known
+  hydrogeological characteristics of the various lithologies, considering their age, dissolution potential,
+  degree of cementation and induration, and fracturing. The data provides a minimum and maximum permeability
+  class along with a predominant flow mechanism.
+benefits:
+- text: Offers a nationally consistent permeability classification for the unsaturated zone
+- text: Helps determine the feasibility of infiltration-based drainage systems, including infiltration
+    SuDS
+- text: Supports groundwater and hydrological assessments where permeability influences recharge, flow
+    and storage
+- text: Provides essential evidence for flood risk assessments, especially where infiltration or groundwater
+    rise is a concern
+- text: Helps prioritise site investigations, focusing resources where infiltration may constrain site
+    drainage or require implementation of groundwater protection measures
+features:
+- text: National coverage across Great Britain
+- text: 1:50 000 scale (±50 m)
+- text: Five-class permeability classification, from very low to very high
+- text: Maximum and minimum permeability classification for both superficial deposits and bedrock
+- text: Classification of the type of flow expected within a lithology
+- text: GIS vector format for ease of geospatial analysis
+- text: Designed for early-stage screening, complementing site-specific infiltration testing
+licencing:
+- heading: Indicative pricing for internal business use
+  text: £0.12 per km²
+- heading: null
+  text: (Subject to number of users, licence fee and data preparation fee.)
+- heading: null
+  text: Please get in touch (digitaldata@bgs.ac.uk) for further information on using BGS data for other
+    purposes, including re-selling.
+- heading: Access via a BGS data re-seller
+  text: Find a full list of BGS re-sellers on our website.
+target_markets:
+- text: Civil, environmental and geotechnical engineers
+- text: Local authorities and planners
+- text: Developers
+- text: Water and sewerage companies
+- text: Transport and utilities infrastructure owners
+challenges:
+- text: Difficulty assessing infiltration potential ahead of site investigation without reliable geological
+    data
+- text: Unexpected groundwater behaviour during construction due to misjudged permeability
+- text: Regulatory requirements for infiltration SuDS and drainage strategies that require permeability
+    evidence
+- text: Limited availability of measurements for water movement through the undersaturated zone above
+    the water table
+- text: High costs associated with redesigning drainage or foundation systems when permeability is misunderstood
+use_cases:
+- text: 'Infiltration SuDS feasibility assessments: determining whether soakaways, infiltration basins
+    or permeable pavements are suitable'
+- text: 'Flood risk assessments: understanding how infiltration capacity affects run-off and groundwater
+    rise'
+- text: 'Foundation and construction planning: identifying areas where highly permeable or impermeable
+    ground affects excavation or stability'
+- text: 'Groundwater and pollutant modelling: providing permeability context for recharge and flow simulations'
+- text: 'Infrastructure route planning: screening corridors for permeability-related risks such as rapid
+    infiltration, perched water tables or pollution risk to vulnerable groundwater bodies'
+- text: 'Environmental impact assessments: evaluating how developments may alter infiltration, groundwater
+    recharge and groundwater pollution'
+links:
+  web_page: https://www.bgs.ac.uk/datasets/permeability/
+  user_guide_source: https://www.bgs.ac.uk/datasets/permeability/#download
+  enquiry: mailto:digitaldata@bgs.ac.uk?subject=BGS%20Permeability%20licence%20enquiry
+  resellers: null
+image: assets/products/permeability.webp

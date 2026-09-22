@@ -1,0 +1,120 @@
+name: GeoCoast
+slug: geocoast
+theme: hazards
+portfolio_pages:
+- 52
+- 53
+- 54
+overview: BGS’s GeoCoast dataset assesses the vulnerability of the coastline of Great Britain to coastal
+  change, flooding and erosion by combining geological, geomorphological and coastal processes information.
+  The data offers assessments of susceptibility to inundation, coastal erosion, subsidence and groundwater
+  flooding, as well as coastal morphology classification. It provides an evidence-based understanding
+  of how coastal areas may respond to rising sea levels, storm surges and long-term coastal evolution,
+  and has been designed to integrate with shoreline management plan areas.
+benefits:
+- text: Provides a consistent national framework for understanding coastal vulnerability
+- text: Offers insight into how geology influences erosion rates, stability and coastal response
+- text: Evidence to support coastal planning, adaptation strategies and climate resilience assessments
+- text: Identifies areas where infrastructure, communities or habitats are situated on or behind vulnerable
+    coastlines
+- text: A tool for early-stage screening before commissioning detailed coastal process modelling
+- text: Data aligns to shoreline management planning regions, supporting policy and shoreline management
+    planning, where geological context is essential
+features:
+- text: National coverage across Great Britain
+- text: 1:50 000 scale (±50 m), providing coastal assessments every 50 m along the coastline of Great
+    Britain
+- text: 'Coastal properties grid, covering the foreshore and backshore, provides information on: maximum
+    flood extents as defined by UKCP18 sea-level rise climate scenarios flooding susceptibility, identifying
+    areas of combined hazard'
+  sub:
+  - foreshore type, properties and area
+  - backshore type, properties and area
+  - coastal erosion susceptibility along high-water line
+  - cliff profile from high-water to cliff top (slope angle; distance; cliff height)
+  - coastal subsidence potential, based on satellite measurements and lithology type
+  - 'inundation under climate change scenarios (future sea-level rise: 2020 (baseline); 2050; 2080; 2100):'
+  - combined assessment of coastal inundation (not including UKCP18 scenarios) and groundwater
+- text: 'Coastal erosion susceptibility assessment of the ‘stack’ of deposits that make up cliffs and
+    coastal fronts, considering:'
+  sub:
+  - the strength of coastal deposits
+  - discontinuities within coastal deposits
+  - the permeability of coastal deposits
+- text: Erosion susceptibility is scored (1 to 100) and classified into five susceptibility classes (low
+    to high)
+- text: 'Erosion susceptibility classes and scores for:'
+  sub:
+  - average susceptibility of the coastal deposit sequence
+  - worst susceptibility score within the coastal deposit sequence
+  - susceptibility of the base of the coastal deposit sequence (most likely to interact with waves)
+- text: NCERM (2019) data included for England
+- text: Classification of coastal vulnerability based on geology, geomorphology and coastal processes
+- text: GIS vector format for ease of geospatial analysis, with attribution attached to a 50 m grid
+- text: Consistent methodology, enabling comparison across regions and shoreline management plan boundaries
+- text: Accompanying open data provides statistical summaries of the Premium GeoCoast data per shoreline
+    management plan or local authority coastline
+- text: Open access to coastal domains dataset, which identifies similar sections of the coast to support
+    comparison and sharing of best practice at a regional scale and streamlines the underlying premium
+    datasets into a simple, high-level scheme
+- text: 'Domains are based on:'
+  sub:
+  - susceptibility of the coastline to erosion
+  - coastline geology
+  - presence or absence of a buffer between direct wave action
+  - height and profile shape of the coastline
+licencing:
+- heading: Indicative pricing for internal business use
+  text: 'Coastal grid data:'
+- heading: null
+  text: £936.85 per shoreline management plan
+- heading: null
+  text: £22 072.33 for national coverage
+- heading: null
+  text: 'Coastal erosion data:'
+- heading: null
+  text: £255.50 per shoreline management plan
+- heading: null
+  text: £6018.55 for national coverage
+- heading: null
+  text: Please get in touch (digitaldata@bgs.ac.uk) for further information on using BGS data for other
+    purposes, including re-selling.
+- heading: Access via a BGS data re-seller
+  text: Find a full list of BGS re-sellers on our website.
+target_markets:
+- text: Coastal planners and local authorities
+- text: Environmental and engineering consultants
+- text: Infrastructure owners
+- text: Shoreline management plan teams and coastal partnerships
+- text: Insurers and risk analysts
+- text: Conservation organisations and ecologists
+challenges:
+- text: Uncertainty about long-term coastal change, especially with accelerating sea-level rise
+- text: Limited integration of geology into coastal risk assessments, which often focus only on hydrodynamics
+- text: Fragmented or inconsistent datasets with regional inconsistencies, making national comparison
+    difficult
+- text: Regulatory pressure to demonstrate coastal resilience in planning and permitting
+- text: High costs associated with unexpected erosion, cliff instability or coastal flooding
+- text: Difficulty in predicting how different coastal landforms (for example, cliffs; dunes; estuaries)
+    will respond to storms or climate change
+use_cases:
+- text: 'Coastal risk screening: identifying vulnerable stretches of coastline for planning or investment
+    decisions'
+- text: 'Shoreline management plans: providing geological context for ‘hold the line’, ‘managed realignment’
+    or ‘no active intervention’ policies'
+- text: 'Infrastructure planning: assessing erosion or flooding risk for railways, roads, pipelines or
+    energy assets'
+- text: 'Climate-adaptation strategies: understanding how different coastal types may respond to sea-level
+    rise'
+- text: 'Environmental impact assessments: evaluating how developments may interact with dynamic coastal
+    systems'
+- text: 'Habitat management: supporting conservation of dunes, salt marshes and other coastal ecosystems
+    sensitive to change'
+- text: 'Dynamic coastal change modelling: baseline data providing geological context within coastal change
+    models'
+links:
+  web_page: https://www.bgs.ac.uk/datasets/geocoast-premium/
+  user_guide_source: https://www.bgs.ac.uk/download/bgs-geocoast-user-guide/
+  enquiry: mailto:digitaldata@bgs.ac.uk?subject=BGS%20GeoCoast%20licence%20enquiry
+  resellers: https://www.bgs.ac.uk/information-hub/licensing/#resellers
+image: assets/products/geocoast.webp

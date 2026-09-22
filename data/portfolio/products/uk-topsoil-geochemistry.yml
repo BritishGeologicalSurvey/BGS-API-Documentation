@@ -1,0 +1,62 @@
+name: UK topsoil geochemistry
+slug: uk-topsoil-geochemistry
+theme: geochemistry
+portfolio_pages:
+- 43
+- 44
+overview: BGS’s UK topsoil geochemistry dataset maps the chemical composition of topsoil across the UK.
+  It provides concentrations of 41 major and trace elements derived from geochemical analyses of 57 966
+  topsoil samples, which were collected between 1978 and 2014 across England, Wales, Northern Ireland
+  and part of Scotland. The dataset establishes a comprehensive and robust geochemical baseline, helping
+  users understand natural soil chemistry, identify contamination and support environmental planning and
+  land - management decisions.
+benefits:
+- text: Offers a consistent baseline against which contamination, land - use change and regulatory compliance
+    can be evaluated, supporting environmental assessment
+- text: Provides nationally consistent baseline geochemical data, essential for benchmarking site-specific
+    studies against the geochemical background
+- text: Reliable evidence for contaminated land assessments, environmental permitting and planning applications
+    based on topsoil analyses with comprehensive coverage
+- text: Assists in land-use planning, redevelopment and agricultural management by identifying areas with
+    elevated or unusual soil chemistry
+features:
+- text: Coverage of England, Northern Ireland, Wales and part of Scotland with systematic sampling
+- text: Element concentrations derived from X-ray fluorescence spectrometry of topsoil samples provided
+    as wt% or mg/kg, with supporting prediction standard error values
+- text: Geochemical predictions on a regular 500 × 500 m grid with supporting information on regional
+    sample density and appropriate scale of use
+- text: GIS raster formats supporting geospatial analysis with an image atlas available for reference
+licencing:
+- heading: null
+  text: Gridded data is available for commercial, research and public use under Open Government Licence
+    .
+- heading: null
+  text: Underpinning survey point data is available under licence on request. There is no charge for this
+    data, but it is subject to a data preparation fee.
+- heading: null
+  text: Please get in touch (digitaldata@bgs.ac.uk) for more information.
+target_markets:
+- text: Environmental consultants
+- text: Local authorities and planners
+- text: Environmental regulators
+- text: Public health agencies
+- text: Agricultural and land-management professionals
+challenges:
+- text: Lack of consistent baseline data, making it hard to compare sites or assess long-term trends
+- text: Regulatory pressure to demonstrate compliance with environmental standards
+- text: Fragmented or outdated local datasets, which may not reflect current conditions
+- text: Challenges in assessing ecological and human health risks without robust geochemical context
+use_cases:
+- text: 'Agricultural land management: understanding nutrient levels and trace element distribution to
+    guide soil improvement strategies'
+- text: 'Environmental monitoring: tracking long-term changes in soil chemistry due to industry, transport
+    or atmospheric deposition'
+- text: 'Ecosystem risk assessment: evaluating whether soil chemistry poses risks to vegetation, wildlife
+    or water bodies'
+- text: 'Public health studies: mapping areas with elevated lead or arsenic to support targeted interventions'
+links:
+  web_page: https://www.bgs.ac.uk/datasets/uk-topsoil-geochemistry/
+  user_guide_source: https://www.bgs.ac.uk/datasets/uk-topsoil-geochemistry/#download
+  enquiry: mailto:digitaldata@bgs.ac.uk?subject=BGS%20Stream%20sediment%20geochemistry%20licence%20enquiry
+  resellers: null
+image: assets/products/uk-topsoil-geochemistry.webp

@@ -1,0 +1,132 @@
+# Builds with Zensical (primary) or Material for MkDocs 9.7.x (fallback):
+#   zensical build        |   mkdocs build
+site_name: BGS Data Products & APIs
+site_url: https://britishgeologicalsurvey.github.io/BGS-API-Documentation/
+site_description: British Geological Survey data products, user guides, APIs and worked examples.
+repo_url: https://github.com/BritishGeologicalSurvey/BGS-API-Documentation
+repo_name: BGS-API-Documentation
+edit_uri: edit/main/docs/
+copyright: © UKRI. Contains British Geological Survey materials.
+
+theme:
+  name: material
+  language: en
+  custom_dir: overrides
+  logo: assets/brand/bgs-logo-primary-reversed.svg
+  favicon: assets/brand/favicon.svg
+  font: false                 # self-hosted brand font (see stylesheets/bgs.css), no Google Fonts call
+  palette:
+    scheme: bgs
+    primary: custom
+    accent: custom
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.action.edit
+
+extra_css:
+  - stylesheets/bgs.css
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/BritishGeologicalSurvey/BGS-API-Documentation
+
+nav:
+  - Home: index.md
+  # BEGIN GENERATED PRODUCTS NAV
+  - Products:
+    - products/index.md
+    - Baseline geology:
+      - products/baseline-geology/index.md
+      - BGS Geology 10/25K: products/baseline-geology/bgs-geology-10-25k/index.md
+      - BGS Geology 50K: products/baseline-geology/bgs-geology-50k/index.md
+      - BGS Geology 250K: products/baseline-geology/bgs-geology-250k/index.md
+      - Soil parent material model: products/baseline-geology/soil-parent-material-model/index.md
+      - Superficial deposit thickness model: products/baseline-geology/superficial-deposit-thickness-model/index.md
+    - Engineering geology:
+      - products/engineering-geology/index.md
+      - BGS Civils:
+        - products/engineering-geology/bgs-civils/index.md
+        - User guide: products/engineering-geology/bgs-civils/user-guide/index.md
+      - 'BGS Civils: bulking volume': products/engineering-geology/bgs-civils-bulking-volume/index.md
+      - 'BGS Civils: corrosivity (ferrous)': products/engineering-geology/bgs-civils-corrosivity-ferrous/index.md
+      - 'BGS Civils: discontinuities': products/engineering-geology/bgs-civils-discontinuities/index.md
+      - 'BGS Civils: engineered fill': products/engineering-geology/bgs-civils-engineered-fill/index.md
+      - 'BGS Civils: excavatability': products/engineering-geology/bgs-civils-excavatability/index.md
+      - 'BGS Civils: foundation conditions': products/engineering-geology/bgs-civils-foundation-conditions/index.md
+      - 'BGS Civils: strength': products/engineering-geology/bgs-civils-strength/index.md
+      - 'BGS Civils: sulfate/sulfide potential': products/engineering-geology/bgs-civils-sulfate-sulfide-potential/index.md
+      - Resistivity: products/engineering-geology/resistivity/index.md
+    - Geochemistry:
+      - products/geochemistry/index.md
+      - UK stream sediment geochemistry: products/geochemistry/uk-stream-sediment-geochemistry/index.md
+      - UK topsoil geochemistry: products/geochemistry/uk-topsoil-geochemistry/index.md
+      - London Earth: products/geochemistry/london-earth/index.md
+      - Soil chemistry for environmental assessments: products/geochemistry/soil-chemistry-for-environmental-assessments/index.md
+    - Hazards:
+      - products/hazards/index.md
+      - GeoCoast: products/hazards/geocoast/index.md
+      - GeoClimate shrink–swell:
+        - products/hazards/geoclimate-shrink-swell/index.md
+        - User guide: products/hazards/geoclimate-shrink-swell/user-guide/index.md
+      - Geological indicators of flooding: products/hazards/geological-indicators-of-flooding/index.md
+      - GeoScour: products/hazards/geoscour/index.md
+      - GeoSure®: products/hazards/geosure/index.md
+      - GeoSure® debris flow susceptibility model: products/hazards/geosure-debris-flow-susceptibility-model/index.md
+      - GeoSure® insurance and lenders product: products/hazards/geosure-insurance-and-lenders-product/index.md
+      - GeoSure® shrink–swell 3D for London: products/hazards/geosure-shrink-swell-3d-for-london/index.md
+      - Groundwater flooding: products/hazards/groundwater-flooding/index.md
+      - Mining hazard (not including coal): products/hazards/mining-hazard-not-including-coal/index.md
+      - Property subsidence assessment: products/hazards/property-subsidence-assessment/index.md
+      - Radon potential: products/hazards/radon-potential/index.md
+    - Hydrogeology:
+      - products/hydrogeology/index.md
+      - Aquifer designation: products/hydrogeology/aquifer-designation/index.md
+      - Depth to groundwater: products/hydrogeology/depth-to-groundwater/index.md
+      - Groundwater vulnerability: products/hydrogeology/groundwater-vulnerability/index.md
+      - Hydrogeological maps of Scotland: products/hydrogeology/hydrogeological-maps-of-scotland/index.md
+      - Infiltration SuDS map: products/hydrogeology/infiltration-suds-map/index.md
+      - Permeability: products/hydrogeology/permeability/index.md
+    - Minerals:
+      - products/minerals/index.md
+      - BritPits: products/minerals/britpits/index.md
+      - Mineral resources: products/minerals/mineral-resources/index.md
+    - Offshore geology:
+      - products/offshore-geology/index.md
+      - BGS Offshore Bedrock 250k:
+        - products/offshore-geology/offshore-bedrock-250k/index.md
+        - User guide: products/offshore-geology/offshore-bedrock-250k/user-guide/index.md
+  # END GENERATED PRODUCTS NAV
+  - APIs:
+      - apis/index.md
+      - OGC API – Features: apis/features.md
+      - Maps (WMS): apis/maps.md
+      - Sensors (SensorThings): apis/sensors.md
+  - Examples:
+      - examples/index.md
+      - Earthquakes (OWSLib + CQL): examples/ogcapi-features-cql-owslib-earthquakes.md
+      - Earthquakes (requests + CQL): examples/ogcapi-features-cql-requests-earthquakes.md
+      - Seafloor samples (Features + EDR): examples/ogcapi-features-cql-with-EDR-seafloor-samples.md
+      - World Mineral Statistics: examples/BGS_World_Mineral_Statistics_using_OGCAPI_Features.md

@@ -1,0 +1,81 @@
+name: BGS Civils
+slug: bgs-civils
+theme: engineering-geology
+portfolio_pages:
+- 19
+- 20
+overview: The BGS Civils engineering geology datasets translate geological information into practical
+  assessments of how the ground is likely to behave during construction and civil engineering projects.
+  These datasets cover themes such as bulking volume, corrosivity, discontinuities, engineered fill, excavatability,
+  foundation conditions, strength and sulfate/sulfide potential. Each dataset provides nationally consistent
+  layers in GIS formats that help users understand engineering constraints before intrusive investigation.
+benefits:
+- text: Reduce uncertainty in feasibility and concept design
+- text: Identify potentially challenging ground conditions before committing to costly site investigation
+- text: Improve cost forecasting, especially for earthworks, foundations and material management
+- text: Support planning and regulatory compliance with authoritative geological intelligence
+- text: Enhance infrastructure resilience, particularly for utilities and transport networks
+- text: Integrate engineering relevant geological data into asset management systems and environmental
+    assessments
+- text: Designed to complement, not replace, site-specific geotechnical testing
+features:
+- text: National coverage across Great Britain
+- text: 1:50 000 scale (±50 m)
+- text: 'Multiple engineering geology themes, including:'
+  sub:
+  - bulking volume
+  - corrosivity (ferrous)
+  - discontinuities
+  - engineered fill
+  - excavatability
+  - foundation conditions
+  - strength
+  - sulfate/sulfide potential
+- text: Derived from authoritative BGS data sources, such as our geological mapping and the BGS National
+    Geotechnical Properties Database
+- text: GIS vector format for ease of geospatial analysis
+- text: Attribute-rich polygons describing engineering behaviour and geological context
+licencing:
+- heading: Indicative pricing for internal business use
+  text: 'BGS Civils bundle: £0.58'
+- heading: null
+  text: 'Individual layers: £0.35'
+- heading: null
+  text: Prices per km²
+- heading: null
+  text: (Subject to number of users, licence fee and data preparation fee.)
+- heading: null
+  text: Please get in touch (digitaldata@bgs.ac.uk) for further information on using BGS data for other
+    purposes, including re-selling.
+- heading: Access via a BGS data re-seller
+  text: Find a full list of BGS re-sellers on our website.
+target_markets:
+- text: Civil and geotechnical engineers
+- text: Environmental consultants
+- text: Transport and utilities infrastructure owners and operators
+- text: Local authorities and planners
+- text: Developers and contractors
+challenges:
+- text: Unexpected ground conditions leading to delays, redesigns or increased costs
+- text: Fragmented or inconsistent data sources, making early-stage assessment difficult
+- text: High maintenance costs of buried assets due to degradation caused by ground conditions
+- text: Regulatory pressures requiring evidence of ground risk consideration
+- text: Challenges in planning earthworks, foundation design and material re-use
+- text: Difficulty estimating excavation effort, settlement risk or chemical aggression
+use_cases:
+- text: 'Early-stage site screening: identifying excavation considerations, geotechnical properties or
+    corrosive soils before design begins'
+- text: 'Earthworks planning: using excavatability, bulking and strength datasets to estimate plant needs
+    and cut and fill volumes'
+- text: 'Foundation feasibility: assessing whether shallow foundations are viable or whether piling is
+    likely to be needed'
+- text: 'Utility route planning: mapping corrosivity, discontinuities and sulfate/sulfide potential along
+    pipeline or cable corridors'
+- text: 'Slope and embankment design: using discontinuities and strength data to assess stability'
+- text: 'Asset management prioritisation: identifying where ground hazards may threaten existing infrastructure'
+links:
+  web_page: https://www.bgs.ac.uk/geology-projects/product-development/bgs-civils/
+  user_guide_source: https://www.bgs.ac.uk/download/bgs-civils-user-guide/
+  enquiry: mailto:digitaldata@bgs.ac.uk?subject=BGS%20Civils%20licence%20enquiry
+  resellers: https://www.bgs.ac.uk/information-hub/licensing/#resellers
+image: assets/products/bgs-civils.webp

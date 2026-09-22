@@ -1,0 +1,93 @@
+name: GeoSure®
+slug: geosure
+theme: hazards
+portfolio_pages:
+- 61
+- 62
+overview: 'BGS’s GeoSure ® assesses the natural susceptibility of geological deposits to potential ground
+  movement resulting from six key natural geohazards. It converts geological and geotechnical knowledge
+  into hazard classes that indicate potential for the ground to cause stability problems for buildings,
+  infrastructure and buried assets. Collapsible deposits: some deposits can undergo a reduction in volume
+  if loaded or saturated, resulting in collapse and subsidence. Compressible ground: some deposits contain
+  fluids that can be squeezed out when a load is applied or groundwater levels change, resulting in a
+  reduction in ground volume and causing ground movement. Landslides: different geology types and topographical
+  settings can combine to increase the susceptibility to downslope ground movement (landslides), causing
+  damage through loss of support to overlying or buried structures, or from direct impact. Running sand:
+  some deposits contain sandy layers that can become fluidised by water flowing through them, which removes
+  support for overlying structures and results in subsidence. Shrink–swell subsidence: clay-rich deposits
+  that absorb water when wet and lose water when drying increase and decrease in volume as they do so.
+  This volume change causes seasonal movement of the ground upwards (heave) or downwards (subsidence).
+  Soluble rocks: some deposits dissolve in water, resulting in underground cavities that can collapse
+  and cause ground movement, or fill with sediment, which can later be washed out due to changes in groundwater
+  or surface water and can result in ground movement.'
+benefits:
+- text: Identifies ground related risks early, before intrusive investigation or design work begins
+- text: Supports planning and development control, ensuring ground conditions are considered in land-use
+    decisions
+- text: Improves infrastructure resilience, especially for utilities and transport networks exposed to
+    ground movement
+- text: Reduces the likelihood of unexpected ground failures, which can be costly and disruptive
+- text: Provides evidence for insurance and risk modelling, particularly for subsidence and landslide
+    risk
+features:
+- text: Six ground instability hazards mapped with national coverage
+- text: 1:50 000 scale (±50 m)
+- text: Five-class hazard rating system, from very low to very high susceptibility
+- text: BGS GeoReports are available for site-specific queries
+- text: GIS vector format for ease of geospatial analysis
+- text: Bespoke methodology per hazard, ensuring accurate assessment of ground movement potential
+- text: Derived from authoritative BGS geological mapping and geotechnical data
+- text: Periodically updated to incorporate new geological information and improved mapping
+- text: Designed for early-stage assessment, complementing (but not replacing) site-specific investigation
+- text: Open access available for a generalised, low-resolution version of the data
+licencing:
+- heading: Indicative pricing for internal business use
+  text: 'All six themes: £0.91'
+- heading: null
+  text: 'Collapsible deposits: £0.06'
+- heading: null
+  text: 'Compressible ground: £0.23'
+- heading: null
+  text: 'Landslides (including debris flow): £0.35'
+- heading: null
+  text: 'Running sands: £0.23'
+- heading: null
+  text: 'Shrink-swell: £0.35'
+- heading: null
+  text: 'Soluble rocks: £0.18'
+- heading: null
+  text: (Prices per km² and subject to number of users, licence fee and data preparation fee.)
+- heading: null
+  text: Please get in touch (digitaldata@bgs.ac.uk) for further information on using BGS data for other
+    purposes, including re-selling.
+- heading: Access via a BGS data re-seller
+  text: Find a full list of BGS re-sellers on our website.
+target_markets:
+- text: Local authorities/planners • Insurance, lenders and risk analysts
+- text: Civil, environmental and geotechnical engineers • Conveyancing reporters
+- text: Utility companies • Developers and landowners
+- text: Transport operators
+challenges:
+- text: Unexpected ground movement causing damage, delays or redesigns to built and buried assets
+- text: Expertise required to interpret local geological conditions for potential ground hazards
+- text: Increasing regulatory requirements for ground stability evidence in planning applications
+- text: Insurance exposure, particularly in areas prone to shrink–swell or landslides
+- text: High costs to mitigate or repair unstable ground post-construction
+use_cases:
+- text: 'Local development: screening planning applications for ground stability constraints'
+- text: 'Planning proposals: evidencing mitigation strategies in engineering and development proposals'
+- text: 'Network analysis: identifying landslide susceptibility along proposed road, rail or pipeline
+    routes'
+- text: 'Claims analysis: supporting insurance underwriting for ground subsidence'
+- text: 'Portfolio resilience assessment: assessing financial portfolios for exposure to geohazards'
+- text: 'Property transactions: reporting potential hazards to properties during conveyancing searches'
+- text: 'Infrastructure management: prioritising asset maintenance in areas prone to ground movement Contact
+    Web page QR code Further information To make an enquiry about > Web page licencing this data, please
+    > User guide fill out a contact form, which can be accessed > Sample data via the Licence this data
+    > GeoReports online shop link on the web page, or > Open data email digitaldata@bgs.ac.uk . > Metadata'
+links:
+  web_page: https://www.bgs.ac.uk/datasets/geosure/#access
+  user_guide_source: https://www.bgs.ac.uk/download/geosure_user_guide/
+  enquiry: mailto:digitaldata@bgs.ac.uk?subject=BGS%20GeoSure%20licence%20enquiry
+  resellers: null
+image: assets/products/geosure.webp

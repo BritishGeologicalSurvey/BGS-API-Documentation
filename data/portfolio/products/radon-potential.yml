@@ -1,0 +1,79 @@
+name: Radon potential
+slug: radon-potential
+theme: hazards
+portfolio_pages:
+- 75
+- 76
+overview: BGS’s radon potential dataset provides an assessment of the likelihood that radon gas will be
+  present at elevated levels in homes and workplaces across Great Britain and Northern Ireland. Radon
+  is a naturally occurring, radioactive gas that can accumulate indoors and is a recognised health risk.
+  The dataset combines interpretation of geological mapping, indoor radon measurements and statistical
+  modelling to map radon potential at a fine spatial scale. Developed in collaboration with the UK Health
+  Security Agency (UKHSA), it is the authoritative national dataset used by Government, public health
+  bodies, planners and property professionals.
+benefits:
+- text: Supplies a trusted, authoritative assessment of radon potential based on extensive measurements
+    and geological understanding
+- text: Fine-scale mapping that helps identify where radon protection measures are required in new buildings
+- text: Supports adherence to statutory obligations set out in public health legislation
+- text: Provides evidence for public health planning, risk communication and targeted testing campaigns
+- text: Informs property transactions, mortgage assessments and home - buyer information
+features:
+- text: National coverage across Great Britain and Northern Ireland
+- text: 1:50 000 scale (±50 m)
+- text: Integration of geology and indoor radon measurements, providing a robust evidence base
+- text: Radon potential classification, indicating the probability that a property will exceed the UK
+    Action Level
+- text: Nation-specific attribution, with regional variations in radon legislation and action levels for
+    England, Northern Ireland, Scotland and Wales accounted for and regional specific classifications
+    and advice given for each nation
+- text: BGS GeoReports are available for site-specific queries
+- text: GIS vector format for ease of geospatial analysis
+- text: Periodic updates, incorporating new measurements and improved modelling
+- text: Official dataset developed by leading radon authorities (BGS, the Geological Survey of Northern
+    Ireland and UKHSA) and used by the UK Government and public health bodies to define radon - affected
+    areas
+- text: Open access is available for a generalised, low-resolution version of the data
+licencing:
+- heading: Indicative pricing for internal business use
+  text: £0.35 per km²
+- heading: null
+  text: (Subject to number of users, licence fee and data preparation fee.)
+- heading: null
+  text: Please get in touch (digitaldata@bgs.ac.uk) for further information on using BGS data for other
+    purposes, including re-selling.
+- heading: Access via a BGS data re-seller
+  text: Find a full list of BGS re-sellers on our website.
+target_markets:
+- text: Local authorities and planners
+- text: Public health agencies
+- text: Property professionals, including surveyors, conveyancers and estate agents
+- text: Homebuyers and homeowners
+- text: Developers and architects
+- text: Infrastructure owners and operators
+- text: Environmental and risk consultants
+challenges:
+- text: Limited awareness of radon risk, especially in areas where geology strongly influences indoor
+    concentrations
+- text: Uncertainty during property transactions, as buyers and sellers need reliable radon information
+- text: Regulatory requirements for radon protection in new buildings, which need accurate mapping
+- text: Health risks associated with long-term radon exposure, including increased risk of lung cancer
+- text: Fragmented or outdated local information, making national-scale assessment difficult without a
+    unified dataset
+- text: Difficulty identifying priority testing areas, particularly for local authorities and public health
+    teams
+use_cases:
+- text: 'Planning and building control: determining whether new buildings require basic or full radon
+    protection measures'
+- text: 'Property surveys: providing radon risk information during home purchase or valuation'
+- text: 'Public health campaigns: identifying high-risk communities for targeted radon testing'
+- text: 'Workplace risk assessments: ensuring compliance with radiation safety regulations in basements,
+    tunnels or ground-contact structures'
+- text: 'Environmental risk reporting: integrating radon potential into wider environmental or geohazard
+    assessments'
+links:
+  web_page: https://www.bgs.ac.uk/datasets/radon-data-radon-potential-dataset/
+  user_guide_source: https://www.bgs.ac.uk/download/radon-potential-dataset-user-guide-northern-ireland/
+  enquiry: mailto:digitaldata@bgs.ac.uk?subject=BGS%20radon%20potential%20licence%20enquiry
+  resellers: null
+image: assets/products/radon-potential.webp

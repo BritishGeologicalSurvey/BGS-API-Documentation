@@ -1,0 +1,79 @@
+name: Groundwater flooding
+slug: groundwater-flooding
+theme: hazards
+portfolio_pages:
+- 69
+- 70
+overview: BGS’s groundwater flooding provides an assessment of areas in Great Britain where geological
+  conditions could enable groundwater flooding at the surface. The data also highlights areas where groundwater
+  may come close to the ground surface, affecting basements and buried infrastructure. It identifies where
+  geological, hydrogeological and topographical conditions make groundwater flooding more likely, including
+  bedrock aquifers, permeable superficial deposits, topographical controls and areas with shallow water
+  tables. The dataset supports planning, infrastructure design, flood-risk management and emergency preparedness
+  by offering a consistent, evidence-based view of groundwater-related flood hazards.
+benefits:
+- text: Highlights flood mechanisms not captured by surface water or river flood models, giving a more
+    complete view of flood risk
+- text: Supports planning and development decisions, especially in areas with permeable bedrock or superficial
+    deposits
+- text: Helps infrastructure owners anticipate groundwater emergence, which could damage basements, tunnels,
+    utilities and transport corridors
+- text: Provides evidence for flood risk assessments, resilience planning and regulatory compliance.
+- text: Offers a nationally consistent, geologically informed assessment that improves early-stage risk
+    screening
+features:
+- text: National coverage across Great Britain
+- text: 1:50 000 scale (±50 m)
+- text: Geologically informed susceptibility mapping, considering bedrock aquifer properties, superficial
+    deposits, topography and hydrogeological observations where available
+- text: Simple classification of groundwater flooding susceptibility, highlighting areas susceptible to
+    groundwater flooding at the surface, areas where groundwater levels may impact property or assets
+    below the ground surface and areas unlikely to experience groundwater flooding
+- text: A supporting layer indicates confidence in the susceptibility classification, allowing users to
+    critically assess the data for their needs
+- text: GIS vector format for ease of geospatial analysis
+- text: Supports multi-source flood risk assessment, complementing river, coastal and surface water datasets
+licencing:
+- heading: Indicative pricing for internal business use
+  text: £0.35 per km²
+- heading: null
+  text: (Subject to number of users, licence fee and data preparation fee.)
+- heading: null
+  text: Please get in touch (digitaldata@bgs.ac.uk) for further information on using BGS data for other
+    purposes, including re-selling.
+- heading: Access via a BGS data re-seller
+  text: Find a full list of BGS re-sellers on our website.
+target_markets:
+- text: Local authorities and planners
+- text: Environmental agencies
+- text: Civil, environmental and geotechnical engineers
+- text: Transport and utilities infrastructure owners and operators
+- text: Insurance, lenders and risk analysts
+- text: Conveyancing reporters
+- text: Emergency planners
+- text: Developers and landowners
+challenges:
+- text: Limited awareness of groundwater flooding, which is often overlooked compared with river or surface
+    water flooding
+- text: Unexpected groundwater emergence causing damage to basements, foundations and underground infrastructure
+- text: Lack of consistent national data, making it difficult to assess risk across large portfolios or
+    regions
+- text: Complex geological controls on groundwater behaviour that are hard to interpret without specialist
+    datasets
+use_cases:
+- text: 'Planning applications: screening proposed developments for groundwater flooding constraints before
+    design begins'
+- text: 'Basement and foundation design: identifying areas where groundwater pressure or emergence may
+    require waterproofing or drainage'
+- text: 'Infrastructure resilience: assessing risk to tunnels, cuttings, culverts and buried utilities'
+- text: 'Flood risk assessments: incorporating groundwater flooding into multiple-source flood modelling'
+- text: 'Portfolio level risk analysis: helping insurers or asset managers understand exposure across
+    large geographical areas'
+- text: 'Emergency response planning: identifying communities that are vulnerable during prolonged wet
+    winters or rapid recharge events'
+links:
+  web_page: https://www.bgs.ac.uk/datasets/groundwater-flooding/
+  user_guide_source: https://www.bgs.ac.uk/datasets/groundwater-flooding/#download
+  enquiry: mailto:digitaldata@bgs.ac.uk?subject=BGS%20Groundwater%20flooding%20licence%20enquiry
+  resellers: null
+image: assets/products/groundwater-flooding.webp

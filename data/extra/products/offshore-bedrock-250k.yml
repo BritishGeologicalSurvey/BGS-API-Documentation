@@ -1,0 +1,35 @@
+# Hand-authored open-data product (the 2026–27 Product Portfolio covers licensed
+# products only). Content summarised from user guide OR/21/009.
+name: BGS Offshore Bedrock 250k
+slug: offshore-bedrock-250k
+theme: offshore-geology
+licence: OGL
+overview: >-
+  A digital geological map of the bedrock beneath the seabed of the UK Exclusive Economic
+  Zone at 1:250 000 scale, compiled from the BGS offshore 'solid geology' paper map series
+  with later re-interpretation. Two layers: bedrock lithostratigraphy (polygons) and bedrock
+  structural geology (faults and folds at rockhead).
+benefits:
+  - text: Regional understanding of seabed foundation conditions for offshore infrastructure
+  - text: Supports marine spatial planning and seabed habitat mapping
+  - text: Free to use under the Open Government Licence
+features:
+  - text: Covers most of the UK EEZ and some adjacent waters
+  - text: 1:250 000 scale (±250 m)
+  - text: Lexicon (LEX) and Rock Classification Scheme (RCS) coding, with age attributes
+  - text: ESRI shapefile and GeoPackage
+licencing:
+  - heading: Open data
+    text: Available under the Open Government Licence. Acknowledge "Contains British Geological Survey materials © UKRI [year]".
+target_markets:
+  - text: Offshore renewable energy developers
+  - text: Cable, pipeline and dredging industries
+  - text: Marine habitat mappers and marine spatial planners
+challenges: []
+use_cases:
+  - text: 'Foundation screening: identifying bedrock lithology below the Quaternary/bedrock interface'
+links:
+  web_page: https://www.bgs.ac.uk/datasets/marine-bedrock-250k/
+  doi: https://doi.org/10.5285/d933077d-d8af-48cd-85ba-8c31ce2a95a6
+  enquiry: mailto:digitaldata@bgs.ac.uk?subject=BGS%20Offshore%20Bedrock%20250k
+image: assets/products/offshore-bedrock-250k.webp  # crop of the OR/21/009 cover map

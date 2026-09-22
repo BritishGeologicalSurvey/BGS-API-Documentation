@@ -1,0 +1,68 @@
+name: 'BGS Civils: excavatability'
+slug: bgs-civils-excavatability
+theme: engineering-geology
+portfolio_pages:
+- 29
+- 30
+overview: 'BGS Civils: excavatability classifies how difficult it is likely to be to excavate near-surface
+  geological materials across Great Britain. It translates 1:50 000-scale geological mapping and engineering
+  geology knowledge into practical excavatability classes that indicate whether ground can typically be
+  removed by hand tools or mechanical excavators, or requires heavy breaking. The dataset is part of the
+  wider BGS Civils suite, which provides engineering-relevant geological intelligence for early-stage
+  design, asset management and risk assessment.'
+benefits:
+- text: Better forecasting of plant requirements, from standard excavators to breakers or blasting
+- text: More accurate programme and cost estimates for excavation works
+- text: Early identification of hard or resistant materials that may slow construction
+- text: Improved health and safety planning, reducing risks associated with unexpected hard ground
+- text: More efficient cut and fill design, haulage planning and material management
+features:
+- text: 'Excavatability classification, providing an assessment of the mode of equipment required to excavate
+    based on the strength and density of deposits. These classifications are aligned to British Standard
+    BS5930 and are assessed considering:'
+  sub:
+  - deposit type
+  - weathering
+  - the presence of discontinuities
+- text: GIS vector format for ease of geospatial analysis
+- text: Consistent classification based on BGS’s engineering geology expertise and geotechnical literature
+- text: Part of the BGS Civils suite, which can be combined with datasets about geological materials and
+    their engineering characteristics
+licencing:
+- heading: Indicative pricing for internal business use
+  text: 'BGS Civils bundle: £0.58'
+- heading: null
+  text: 'Individual layers: £0.35'
+- heading: null
+  text: Prices per km²
+- heading: null
+  text: (Subject to number of users, licence fee and data preparation fee.)
+- heading: null
+  text: Please get in touch (digitaldata@bgs.ac.uk) for further information on using BGS data for other
+    purposes, including re-selling
+- heading: Access via a BGS data re-seller
+  text: Find a full list of BGS re-sellers on our website.
+target_markets:
+- text: Civil and geotechnical engineers
+- text: Contractors and construction planners
+- text: Transport and utilities operators
+- text: Local authorities and planners
+challenges:
+- text: Unexpected hard ground conditions can cause delays and require specialist equipment
+- text: Inaccurate early-stage cost estimates without indicative excavatability data
+- text: Fragmented or inconsistent data on all factors influencing excavatability
+use_cases:
+- text: 'Highway or rail corridor design: identifying sections where excavation will require heavy plant
+    or breaking, improving programme planning'
+- text: 'Basement and foundation construction: anticipating whether excavation will encounter soft soils,
+    stiff tills or competent rock'
+- text: 'Utility trenching: planning equipment needs and excavation rates for pipelines, cables and drainage
+    systems'
+- text: 'Cut and fill earthworks: estimating excavation difficulty to optimise haulage, sequencing and
+    material re use'
+links:
+  web_page: https://www.bgs.ac.uk/datasets/bgs-civils-excavatability/
+  user_guide_source: https://www.bgs.ac.uk/download/bgs-civils-user-guide/
+  enquiry: mailto:digitaldata@bgs.ac.uk?subject=BGS%20Civils%20licence%20enquiry
+  resellers: https://www.bgs.ac.uk/information-hub/licensing/#resellers
+image: assets/products/bgs-civils-excavatability.webp

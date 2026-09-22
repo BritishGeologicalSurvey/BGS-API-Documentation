@@ -1,0 +1,70 @@
+name: Geological indicators of flooding
+slug: geological-indicators-of-flooding
+theme: hazards
+portfolio_pages:
+- 57
+- 58
+overview: BGS’s geological indicators of flooding dataset identifies landforms and sediments created by
+  past flood events. These geological features, such as alluvial deposits, river terraces, floodplain
+  sediments and coastal storm-wash deposits, provide evidence of where flooding has occurred historically
+  over long timescales. Because geology records events far beyond the period of instrumental or historical
+  data, the dataset offers a long-term perspective on flood susceptibility across Great Britain.
+benefits:
+- text: Reveals long-term flood patterns that are not captured in modern flood-risk maps
+- text: Helps identify areas where flooding has occurred repeatedly over centuries or millennia
+- text: Supports planning and development decisions by highlighting flood-prone landforms
+- text: Provides evidence for catchment and coastal management, complementing hydrological models
+- text: Helps organisations understand multi-source flood risk, including river and coastal processes
+features:
+- text: National coverage across Great Britain
+- text: 1:50 000 scale (±50 m)
+- text: Identification of flood-related landforms, including alluvium, river terraces, floodplain deposits
+    and coastal storm deposits
+- text: Differentiation between deposits that represent areas with a high potential to flood (‘Zone 1’
+    ) and deposits representing areas susceptible to flooding in more extreme events such as very heavy
+    and prolonged periods of rainfall or extreme storm surges (‘Zone 2’)
+- text: Long-term flood evidence, extending far beyond recorded flood history
+- text: GIS vector format for ease of geospatial analysis
+- text: Designed to complement hydrological and flood model datasets, offering a multi-layered view of
+    flood risk
+licencing:
+- heading: Indicative pricing for internal business use
+  text: £0.35 per km²
+- heading: null
+  text: (Subject to number of users, licence fee and data preparation fee.)
+- heading: null
+  text: Please get in touch (digitaldata@bgs.ac.uk) for further information on using BGS data for other
+    purposes, including re-selling.
+- heading: Access via a BGS data re-seller
+  text: Find a full list of BGS re-sellers on our website.
+target_markets:
+- text: Local authorities and planners
+- text: Environmental regulators
+- text: Environmental and engineering consultants
+- text: Transport and utilities infrastructure owners
+- text: Catchment and coastal managers
+- text: Insurers and risk analysts assessing long-term flood susceptibility
+- text: Researchers studying floodplain evolution, geomorphology and climate impacts
+- text: Developers and landowners
+challenges:
+- text: Limited historical flood data, especially in rural areas or before modern monitoring began
+- text: Difficulty identifying long-term flood susceptibility, which hydrological models alone cannot
+    show
+- text: Regulatory pressure to demonstrate long-term flood resilience in planning applications
+- text: Increasing climate-driven extremes, making long-term flood context more important
+use_cases:
+- text: 'Planning applications: screening sites for long-term flood susceptibility before design begins'
+- text: 'Flood risk assessments: incorporating geological evidence to complement hydrological modelling'
+- text: 'Infrastructure planning: identifying routes vulnerable to floodplain inundation or coastal storm
+    deposits'
+- text: 'Catchment management: understanding how rivers have historically migrated or overtopped their
+    banks'
+- text: 'Coastal resilience: mapping areas affected by storm deposits'
+- text: 'Environmental impact assessments: evaluating how developments may interact with flood-formed
+    landforms'
+links:
+  web_page: https://www.bgs.ac.uk/datasets/geological-indicators-of-flooding/
+  user_guide_source: https://www.bgs.ac.uk/datasets/geological-indicators-of-flooding/#download
+  enquiry: mailto:digitaldata@bgs.ac.uk?subject=BGS%20Geological%20indicators%20of%20flooding%20licence%20enquiry
+  resellers: null
+image: assets/products/geological-indicators-of-flooding.webp

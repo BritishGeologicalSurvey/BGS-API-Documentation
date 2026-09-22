@@ -1,0 +1,79 @@
+name: BritPits
+slug: britpits
+theme: minerals
+portfolio_pages:
+- 93
+- 94
+overview: BritPits is BGS’s comprehensive database of active, inactive and historical mines, quarries
+  and mineral extraction sites across the UK. It records information on the location, operational status,
+  ownership, extracted commodities and geological context of each site. The dataset is continually updated
+  and is one of the most authoritative sources of information on mineral extraction activity, supporting
+  planning, resource management, environmental assessment and industry analysis.
+benefits:
+- text: A single, authoritative source of information on mineral extraction sites, past and present
+- text: Detailed insight into the minerals that are or were extracted, helping assess resource potential
+- text: Support for planning and permitting, where knowledge of nearby quarries or former workings is
+    essential
+- text: Evidence of legacy mining for geological, environmental and land - use assessments
+- text: A way to identify commercial opportunities, such as suppliers of specific aggregates or industrial
+    minerals
+features:
+- text: National coverage for Great Britain, Northern Ireland, the Isle of Man and the Channel Islands
+- text: X-Y point data representing the centre of surface workings (±10 m) or the entrance of underground
+    workings (±50 m)
+- text: Information on operational status, including active, inactive, dormant and closed sites
+- text: Commodity data detailing minerals that are or were extracted
+- text: Geographical coordinates in local projection systems for precise mapping and GIS integration
+- text: Site name, ownership and operator information, where available
+- text: Geological context, linking sites to bedrock and superficial deposits
+- text: Regular updates to ensure current and historical accuracy
+- text: GIS vector format for ease of geospatial analysis, along with tabular formats (CSV)
+- text: 'Multi-tier dataset to suit all needs: considered operational only (open access)'
+  sub:
+  - 'full dataset: all records held, including historical sites'
+  - 'active, inactive and dormant data: information on sites'
+  - 'index data: name, status and location of all recorded workings'
+licencing:
+- heading: Indicative pricing for internal business use
+  text: 'Full dataset: £56.78 per region (15 regions in total)'
+- heading: null
+  text: 'Active, inactive and dormant data: £170.34 for complete GB coverage only'
+- heading: null
+  text: (Subject to number of users, licence fee and data preparation fee.)
+- heading: null
+  text: Please get in touch (digitaldata@bgs.ac.uk) for further information on using BGS data for other
+    purposes, including re-selling.
+- heading: Access via a BGS data re-seller
+  text: Find a full list of BGS re-sellers on our website.
+target_markets:
+- text: Mineral extraction companies and resource planners
+- text: Local authorities and planning officers
+- text: Environmental and engineering consultants
+- text: Construction and infrastructure companies
+- text: Landowners and developers
+challenges:
+- text: Difficulty accessing consistent geological information at national and regional scale from disparate
+    sources
+- text: Need for digital geospatial data rather than legacy paper maps
+- text: Uncertainty about subsurface conditions making early-stage assessment difficult without authoritative
+    mapping
+- text: Time consuming compilation of robust geological evidence to meet legislative and regulatory requirements
+- text: Challenging ground conditions cause delays and cost overruns if not identified early
+- text: Complexity of national asset networks with a need to understand ground conditions for thousands
+    of distributed assets
+use_cases:
+- text: 'Planning applications: checking for nearby quarries or historical workings that may affect development
+    suitability'
+- text: 'Local development planning: identifying legacy sites that could be repurposed and active sites
+    available to supply developments with raw materials'
+- text: 'Resource evaluation: assessing the potential for re-opening or expanding mineral extraction sites'
+- text: 'Supply chain analysis: finding producers of specific minerals such as limestone, sand and gravel,
+    slate or industrial minerals'
+- text: 'Environmental impact assessments: understanding the legacy of extraction on landforms, hydrology
+    and contamination'
+links:
+  web_page: https://www.bgs.ac.uk/datasets/britpits/
+  user_guide_source: null
+  enquiry: mailto:digitaldata@bgs.ac.uk?subject=BGS%20BritPits%20licence%20enquiry
+  resellers: null
+image: assets/products/britpits.webp

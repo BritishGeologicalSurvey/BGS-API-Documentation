@@ -1,0 +1,81 @@
+name: Soil chemistry for environmental assessments
+slug: soil-chemistry-for-environmental-assessments
+theme: geochemistry
+portfolio_pages:
+- 47
+- 48
+overview: BGS’s soil chemistry for environmental assessments dataset provides key information for evaluating
+  the presence of potentially harmful elements (PHEs), including arsenic, cadmium, chromium, copper, nickel,
+  lead, tin and zinc, in topsoils across Great Britain. The presence of PHEs in soil can have implications
+  for the health of residents, safety and the value of property, especially in relation to development.
+benefits:
+- text: Assists land-use and redevelopment planning to identify where elevated soil PHE concentrations
+    may be a concern
+- text: Can be applied to distinguish between natural background levels of PHEs in soil and those caused
+    by anthropogenic contamination, reducing uncertainty in site investigations
+- text: Supports regulatory compliance, including planning conditions, environmental permitting and contaminated
+    land assessments
+- text: Informs risk assessment for human and ecosystem health
+features:
+- text: 'Estimated ambient background soil chemistry: nickel, lead, tin and zinc concentrations based
+    on measurements from BGS rural soil and stream sediment geochemical baseline samples composition,
+    allowing natural geochemical patterns to be distinguished from artificial contamination'
+  sub:
+  - modelled estimates of arsenic, cadmium, chromium, copper,
+  - reflecting ‘ambient’ (predominantly geogenic or natural) soil
+  - national coverage across Great Britain
+- text: 'Measured urban soil chemistry: individual soil samples collected by BGS geochemical surveys in
+    23 major UK urban areas, collected at a density of four samples per square kilometre'
+  sub:
+  - locations and measured concentrations of PHEs in
+- text: 'Estimated urban soil chemistry: bioaccessibility levels for arsenic and lead across 23 major
+    UK urban areas, derived from interpolation of the measured urban topsoil data'
+  sub:
+  - interpolated estimates of PHE concentrations and
+licencing:
+- heading: Indicative pricing for internal business use
+  text: 'All elements: £1.36'
+- heading: null
+  text: 'Single elements: £0.35'
+- heading: null
+  text: Prices per km²
+- heading: null
+  text: (Subject to number of users, licence fee and data preparation fee.)
+- heading: null
+  text: Please get in touch (digitaldata@bgs.ac.uk) for further information on using BGS data for other
+    purposes, including re-selling.
+- heading: Access via a BGS data re-seller
+  text: Find a full list of BGS re-sellers on our website.
+target_markets:
+- text: Environmental consultants
+- text: Local authorities and planners
+- text: Developers and landowners
+- text: Environmental regulators
+- text: Public health agencies
+challenges:
+- text: Difficulty determining natural vs. artificial PHE concentrations in soil, especially in urban
+    or industrial areas
+- text: Lack of consistent background data, making it hard to interpret local measurements of PHEs in
+    soil
+- text: Regulatory pressure to demonstrate that soils meet environmental standards
+- text: Uncertainty in redevelopment projects, where soil chemistry can impact remediation costs and feasibility
+- text: Challenges in assessing ecological and human health risks without geochemical information
+use_cases:
+- text: 'Pre-development site investigations: assessing whether concentrations of elements at a site are
+    likely to fall within the ‘normal’ level prior to site investigation, and to provide context to aid
+    the interpretation of site investigation results'
+- text: 'Contaminated land assessment: comparing PHE concentrations in locally collected soil samples
+    with ambient background values, to identify abnormal concentrations of PHEs and verify whether sites
+    are likely to be contaminated'
+- text: 'Planning and redevelopment: screening brownfield sites for potential contamination before design
+    and construction, identifying whether further assessments are likely to be necessary'
+- text: 'Human health risk assessment: in situations where elevated concentrations of PHEs in topsoil
+    at a site are measured to exceed soil guideline values, the dataset allows it to be resolved as to
+    whether these exceedances reflect naturally high (geogenic) levels of a PHE, or if they reflect the
+    presence of anthropogenic pollution and land contamination'
+links:
+  web_page: https://www.bgs.ac.uk/datasets/bgs-soil-chemistry-for-environmental-assessments/
+  user_guide_source: https://www.bgs.ac.uk/datasets/bgs-soil-chemistry-for-environmental-assessments/#download
+  enquiry: mailto:digitaldata@bgs.ac.uk?subject=BGS%20Soil%20chemistry%20for%20environmental%20assessments%20licence%20enquiry
+  resellers: https://www.bgs.ac.uk/information-hub/licensing/#resellers
+image: assets/products/soil-chemistry-for-environmental-assessments.webp

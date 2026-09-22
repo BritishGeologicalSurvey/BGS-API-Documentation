@@ -1,0 +1,75 @@
+name: GeoSure® debris flow susceptibility model
+slug: geosure-debris-flow-susceptibility-model
+theme: hazards
+portfolio_pages:
+- 63
+- 64
+overview: BGS’s GeoSure ® debris flow susceptibility model identifies areas in Great Britain with the
+  potential to initiate a debris flow. A debris flow is a rapid, downslope flow of poorly sorted debris
+  mixed with water. These flows are a widespread phenomenon in mountainous terrain and are distinct from
+  other types of landslides as they can occur periodically on established paths. The data evaluates natural
+  geological, hydrogeological and geomorphological conditions to identify potential source areas. The
+  dataset is part of the wider BGS GeoSure® suite, which provides an assessment of the natural susceptibility
+  of geological deposits to potential ground movement.
+benefits:
+- text: Understanding where natural slopes may generate debris flows
+- text: Supports risk reduction, resilience planning and asset protection for infrastructure, utilities
+    and property
+- text: Enables early-stage hazard screening before commissioning detailed site investigations
+- text: Reduces the likelihood of unexpected slope failures, which can be costly and disruptive
+- text: Provides evidence for risk modelling, particularly for transport infrastructure
+features:
+- text: National coverage across Great Britain
+- text: 1:50 000 scale (±50 m)
+- text: GIS raster format with a 50 m cell size, for ease of geospatial analysis
+- text: 'Identification of potential debris flow source areas (rather than run out or deposition zones)
+    considering: terrain models)'
+  sub:
+  - geological materials
+  - hydrological and permeability characteristics
+  - slope and geomorphology (derived from high-resolution digital
+- text: Derived from authoritative BGS geological mapping, geotechnical data, and geomorphological interpretation
+- text: Periodically updated to incorporate new geological information and improved mapping
+- text: Designed for early-stage assessment, complementing but not replacing site-specific investigation
+- text: Delivered as a bundle with the GeoSure landslides data for a complete assessment of landslide
+    susceptibility
+licencing:
+- heading: 'Indicative pricing for internal business use:'
+  text: £0.35 per km²
+- heading: null
+  text: (Subject to number of users, licence fee and data preparation fee.)
+- heading: null
+  text: Please get in touch (digitaldata@bgs.ac.uk) for further information on using BGS data for other
+    purposes, including re-selling.
+- heading: Access via a BGS data re-seller
+  text: Find a full list of BGS re-sellers on our website.
+target_markets:
+- text: Transport and infrastructure owners, particularly road and rail
+- text: Local authorities and planners
+- text: Engineering and geotechnical consultants
+- text: Insurance, lenders and risk analysts
+- text: Risk managers responsible for national or regional hazard assessment
+challenges:
+- text: Difficulty identifying where debris flows could originate, especially in remote upland terrain
+- text: Lack of consistent national data for infrastructure planning, route maintenance and asset risk
+    assessment
+- text: High costs from unexpected events and repeated closures
+- text: Need for evidence-based hazard information to support cost benefit analysis studies, infrastructure
+    design proposals, insurance and property valuation
+- text: Challenges managing outside party slopes that threaten rail and road assets
+use_cases:
+- text: 'Rail network hazard screening: assessing landslide hazards from outside party slopes'
+- text: 'Road corridor risk assessment: identifying high-susceptibility slopes along trunk roads to support
+    emergency response preparedness and road maintenance budgeting'
+- text: 'Utility route planning: screening pipeline or overhead line corridors for slope failure exposure'
+- text: 'Local authority hazard mapping: supporting planning policy, emergency planning and climate resilience
+    strategies'
+- text: 'Insurance risk modelling: informing underwriting and pricing for properties in upland or steep
+    slope regions'
+- text: 'Environmental and academic research: understanding geomorphological processes and slope evolution'
+links:
+  web_page: https://www.bgs.ac.uk/datasets/bgs-geosure-debris-flow/
+  user_guide_source: https://www.bgs.ac.uk/download/user-guide-bgs-debris-flow-susceptibility-model-for-great-britain-version-6-1-open-report/
+  enquiry: mailto:digitaldata@bgs.ac.uk?subject=BGS%20GeoSure%20debris%20flow%20licence%20enquiry%20
+  resellers: null
+image: assets/products/geosure-debris-flow-susceptibility-model.webp

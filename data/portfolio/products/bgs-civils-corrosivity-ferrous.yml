@@ -1,0 +1,79 @@
+name: 'BGS Civils: corrosivity (ferrous)'
+slug: bgs-civils-corrosivity-ferrous
+theme: engineering-geology
+portfolio_pages:
+- 23
+- 24
+overview: 'BGS Civils: corrosivity (ferrous) classifies the corrosivity of near - surface ground conditions
+  to buried ferrous (iron and steel) infrastructure across Great Britain. It translates 1:50 000-scale
+  geological, geochemical and engineering geology information into a practical assessment of how likely
+  soils, superficial deposits and shallow bedrock are to corrode ferrous materials. The dataset assigns
+  each geological unit a corrosivity class, from non-aggressive to very highly aggressive, based on factors
+  such as moisture content, acidity, organic content, sulfate presence and soil texture. The dataset is
+  part of the wider BGS Civils suite, which provides engineering-relevant geological intelligence for
+  early-stage design, asset management and risk assessment.'
+benefits:
+- text: Early identification of corrosion risk before intrusive ground investigation
+- text: Improved asset protection, helping engineers select appropriate materials, coatings and mitigation
+    strategies
+- text: Reduced life-cycle costs, as corrosion is a major cause of pipeline, cable and foundation failures
+- text: Consistent, national-scale information, avoiding reliance on localised or inconsistent datasets
+- text: Better long-term resilience planning, especially for utilities and transport networks with extensive
+    buried assets
+features:
+- text: National coverage across Great Britain, aligned with BGS’s geological mapping
+- text: 1:50 000 scale (±50 m)
+- text: 'Corrosivity classification for ferrous materials considering:'
+  sub:
+  - water content
+  - redox status
+  - pH
+  - sulfates/sulfides
+  - electrical resistivity
+- text: GIS vector format for ease of geospatial analysis
+- text: Consistent classification based on BGS engineering geology expertise and geotechnical literature
+- text: Part of the BGS Civils suite, which can be combined with datasets about geological materials and
+    their engineering characteristics
+licencing:
+- heading: Indicative pricing for internal business use
+  text: 'BGS Civils bundle: £0.58'
+- heading: null
+  text: 'Individual layers: £0.35'
+- heading: null
+  text: Prices per km²
+- heading: null
+  text: (Subject to number of users, licence fee and data preparation fee.)
+- heading: null
+  text: Please get in touch (digitaldata@bgs.ac.uk) for further information on using BGS data for other
+    purposes, including re-selling.
+- heading: Access via a BGS data re-seller
+  text: Find a full list of BGS re-sellers on our website.
+target_markets:
+- text: Utility companies
+- text: Civil, environmental and geotechnical engineers
+- text: Infrastructure owners and operators
+- text: Local authorities and planners
+- text: Contractors
+challenges:
+- text: Unexpected and premature corrosion failures have high maintenance and replacement costs
+- text: Limited early-stage ground information ahead of site investigation
+- text: Fragmented or inconsistent data sources on all corrosion risk factors
+- text: Regulatory requirements to demonstrate active management of corrosion risk
+- text: Inefficient mitigation planning without susceptibility mapping
+use_cases:
+- text: 'Pipeline route planning: identifying sections of a proposed pipeline that pass through highly
+    corrosive soils, enabling targeted protection'
+- text: 'Foundation design: assessing whether steel piles or sheet piles require coatings, cathodic protection
+    or alternative materials'
+- text: 'Utility asset management: prioritising inspection and replacement programmes for assets located
+    in aggressive ground conditions'
+- text: 'Highway and rail projects: evaluating corrosion risk for buried drainage systems, culverts and
+    retaining structures along long linear corridors'
+- text: 'Carbon and cost modelling: estimating long-term maintenance needs and embodied carbon associated
+    with corrosion mitigation'
+links:
+  web_page: https://www.bgs.ac.uk/datasets/bgs-civils-corrosivity-ferrous/
+  user_guide_source: https://www.bgs.ac.uk/download/bgs-civils-user-guide/
+  enquiry: mailto:digitaldata@bgs.ac.uk?subject=BGS%20Civils%20licence%20enquiry
+  resellers: https://www.bgs.ac.uk/information-hub/licensing/#resellers
+image: assets/products/bgs-civils-corrosivity-ferrous.webp

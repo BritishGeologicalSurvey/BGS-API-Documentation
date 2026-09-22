@@ -1,0 +1,80 @@
+name: Soil parent material model
+slug: soil-parent-material-model
+theme: baseline-geology
+portfolio_pages:
+- 13
+- 14
+overview: BGS’s soil parent material model maps the geological materials from which soils in Great Britain
+  develop. It describes the near-surface weathered zone, which typically comprises the material from the
+  base of the soil profile down to 3 m. The dataset integrates 1:50 000-scale geological mapping, terrain
+  data and a wide range of BGS geochemical, geotechnical and borehole records to provide a consistent
+  representation of soil-forming materials across Great Britain. It includes attributes such as parent
+  material lithology, grain size, soil texture, soil group, carbonate content, soil depth and susceptibility
+  to erosion by water or wind.
+benefits:
+- text: Provides a scientifically robust foundation for understanding how soils form, behave and vary
+    across landscapes
+- text: Offers insight into where site-specific soil data is sparse, enabling evidence-based decisions
+    at regional and national scales
+- text: Supports environmental modelling, land-use planning and agricultural management
+- text: Improves assessments of land capability, natural capital and ecosystem services
+- text: Improves understanding of how geology influences soil vulnerability to erosion, run-off and wind
+    deflation
+features:
+- text: National coverage across Great Britain
+- text: 1:50 000 scale (±50 m)
+- text: 'Detailed attribute set, including:'
+  sub:
+  - generalised parent material lithology
+  - parent material grain size
+  - soil layer thickness
+  - carbonate content ranking
+  - European Soil Bureau parent material type
+  - soil group (light; medium; heavy soils)
+  - soil texture (sand; silt; clay; loam; peat and chalk variants)
+  - susceptibility to water erosion, soil wash and wind erosion
+- text: Derived from multiple authoritative datasets, including BGS geological mapping, topsoil geochemistry,
+    borehole records, geotechnical data and OS Terrain 50
+- text: GIS vector format for ease of geospatial analysis
+- text: Open access available for a generalised, low-resolution version of the data
+licencing:
+- heading: Indicative pricing for internal business use
+  text: £0.35 per km2
+- heading: null
+  text: (Subject to number of users, licence fee and data preparation fee.)
+- heading: null
+  text: Please get in touch (digitaldata@bgs.ac.uk ) for further information on using BGS data for other
+    purposes, including re-selling.
+- heading: Access via a BGS data re-seller
+  text: Find a full list of BGS re-sellers on our website.
+target_markets:
+- text: Environmental scientists and consultants
+- text: Agricultural advisors and land managers
+- text: Local authorities and planners
+- text: Hydrologists and flood risk specialists
+- text: Geotechnical and engineering consultants
+- text: Academics
+challenges:
+- text: Limited soil data availability makes assessing soil behaviour difficult without a proxy dataset
+- text: Fragmented information sources on factors influencing soil characteristics
+- text: Inconsistent local mapping due to variation in soil-forming factors over short distances
+- text: Need for digital geospatial data rather than legacy paper maps
+use_cases:
+- text: 'Agricultural planning: identifying areas with shallow, sandy or erosion-prone soils to guide
+    crop selection or soil protection measures'
+- text: 'Catchment management: modelling sediment sources and predicting where run-off or soil wash is
+    likely during heavy rainfall'
+- text: 'Environmental impact assessments: establishing baseline soil and subsoil conditions for infrastructure,
+    renewable energy or housing developments'
+- text: 'Digital soil modelling: combining parent material data with climate and land-use layers to generate
+    high - resolution soil property maps'
+- text: 'Carbon and natural capital assessments: understanding where carbonate-rich or organic parent
+    materials influence soil chemistry and ecosystem services'
+- text: 'Erosion mitigation planning: identifying slopes and soil textures most susceptible to water or
+    wind erosion'
+links:
+  web_page: https://www.bgs.ac.uk/datasets/soil-parent-material-model/
+  user_guide_source: https://www.bgs.ac.uk/datasets/soil-parent-material-model/#download
+  enquiry: mailto:digitaldata@bgs.ac.uk?subject=BGS%20soil%20parent%20material%20licence%2020enquiry
+  resellers: https://www.bgs.ac.uk/information-hub/licensing/#resellers
+image: assets/products/soil-parent-material-model.webp

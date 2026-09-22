@@ -1,0 +1,79 @@
+name: BGS Geology 10/25K
+slug: bgs-geology-10-25k
+theme: baseline-geology
+portfolio_pages:
+- 7
+- 8
+overview: BGS Geology 10K and 25K are BGS’s most detailed digital geological mapping datasets, representing
+  the highest-resolution geological interpretation available for Great Britain. They are derived from
+  1:10 000-scale surveys (with some 1:25 000-scale coverage in upland areas) and captures bedrock, superficial
+  deposits, mass-movement deposits, artificial ground and linear features. The dataset covers around 52
+  per cent of Great Britain, with a strong focus on urban centres and transport corridors and is continually
+  expanded as BGS digitises its remaining paper archives and completes new surveys .
+benefits:
+- text: Site-scale geological insight enables understanding of ground conditions before on-site or intrusive
+    investigation
+- text: Geological map compilation by regional geological experts from the premier provider of British
+    geological data
+- text: Growing data coverage
+- text: Accessible GIS data formats
+features:
+- text: 'High-resolution mapping: 1:10 000 scale (±10 m accuracy) with some 1:25 000-scale coverage (±25
+    m)'
+- text: 'Four thematic layers:'
+  sub:
+  - bedrock geology
+  - mass-movement deposits
+  - superficial deposits
+  - artificial ground
+- text: Additional data on linear features (faults; mineral veins; coal seams; landforms, etc.)
+- text: Rich attribution provides details of lithology, lithostratigraphy and chronostratigraphy, and
+    applies the national standards of geological classification, the BGS Lexicon and the BGS Rock Classification
+    Scheme
+- text: Applies national geological standards of symbology and colour scheme
+- text: Extensive coverage of urban areas and transport corridors, prioritised where development pressures
+    are highest
+- text: Regularly updated to reflect new surveys, corrections and improved geological interpretations
+- text: GIS vector format for ease of geospatial analysis
+licencing:
+- heading: Indicative pricing for internal business use
+  text: £1.71 per km²
+- heading: null
+  text: (Subject to number of users, licence fee and data preparation fee.)
+- heading: null
+  text: Please get in touch (digitaldata@bgs.ac.uk ) for further information on using BGS data for other
+    purposes, including re-selling.
+- heading: Access via a BGS data re-seller
+  text: Find a full list of BGS re-sellers on our website.
+target_markets:
+- text: Engineering and geotechnical consultants
+- text: Urban planners, local authorities and environmental consultants
+- text: Environmental and geohazard specialists
+- text: Mineral planners and resource managers
+- text: Academics
+challenges:
+- text: Lack of high-resolution data suitable for preliminary, remote assessments
+- text: Need for digital geospatial data rather than legacy paper maps
+- text: Uncertainty about subsurface conditions making early-stage assessment difficult without authoritative
+    mapping
+- text: Time consuming compilation of robust geological evidence to meet legislative and regulatory requirements
+- text: Delays and cost overruns if challenging ground conditions are not identified early
+- text: Early identification of artificial ground, infill or legacy industrial modifications on brownfield
+    sites
+use_cases:
+- text: 'Development screening: engineers need to identify geological constraints such as faulting, landslides
+    or problematic lithologies before intrusive investigation at potential sites'
+- text: 'Environmental impact assessments: planners need to document baseline geological conditions and
+    assess development impacts'
+- text: 'Brownfield redevelopment: identification of artificial ground, infill or legacy industrial modifications
+    helps determine remediation needs and engineering constraints'
+- text: 'Infrastructure planning: transport authorities can assess geological conditions along proposed
+    routes'
+- text: 'Mineral resource evaluation: users can identify nearby sand, gravel or bedrock resources and
+    assess whether development may sterilise them'
+links:
+  web_page: https://www.bgs.ac.uk/datasets/bgs-geology-10k/
+  user_guide_source: null
+  enquiry: mailto:digitaldata@bgs.ac.uk?subject=BGS%20Geology%2010/25K%20licence%20enquiry
+  resellers: https://www.bgs.ac.uk/information-hub/licensing/#resellers
+image: assets/products/bgs-geology-10-25k.webp

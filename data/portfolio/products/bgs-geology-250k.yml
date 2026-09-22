@@ -1,0 +1,60 @@
+name: BGS Geology 250K
+slug: bgs-geology-250k
+theme: baseline-geology
+portfolio_pages:
+- 11
+- 12
+overview: BGS Geology 250K is a regional-scale digital geological dataset covering Great Britain at 1:250
+  000 scale, derived from BGS’s 1:250 000-scale bedrock geological maps. The dataset contains GIS line
+  and polygon data representing bedrock geology and faults, providing a generalised geological view suitable
+  for regional analysis and strategic planning.
+benefits:
+- text: Provides a consistent, national-scale geological framework for Great Britain
+- text: Offers geological insight where highly detailed geological mapping is not required, for example
+    display or education
+- text: Delivers geological information in GIS-ready formats for integration with other spatial datasets
+- text: Based on authoritative BGS geological mapping and classification standards
+features:
+- text: National coverage of Great Britain
+- text: 1:250 000 scale (±250 m)
+- text: 'Two thematic GIS layers:'
+  sub:
+  - bedrock geology
+  - faults
+- text: Geological polygons attributed with lithology, lithostratigraphy and chronostratigraphy, and applies
+    the national standards of geological classification, the BGS Lexicon and the BGS Rock Classification
+    Scheme
+- text: Applies national standards of symbology and colour scheme
+- text: GIS vector format for ease of geospatial analysis
+- text: The data is not recommended for site - or local-scale use (regional and national overviews only)
+licencing:
+- heading: Indicative pricing for internal business use
+  text: £0.007 per km2
+- heading: null
+  text: (Subject to number of users, licence fee and data preparation fee.)
+- heading: null
+  text: Please get in touch (digitaldata@bgs.ac.uk ) for further information on using BGS data for other
+    purposes, including re-selling.
+- heading: Access via a BGS data re-seller
+  text: Find a full list of BGS re-sellers on our website.
+target_markets:
+- text: Educators and academics
+- text: National Government and regulators
+- text: River trusts
+challenges:
+- text: Lack of accessible, low-cost, national geology information
+- text: Need for rapid, general overview of bedrock geology and major fault systems for a region, county
+    or catchment
+use_cases:
+- text: 'Education: regional geological and geoscience studies'
+- text: 'National assessment: strategic infrastructure and land-use overviews'
+- text: 'Display resources: creating national geological map display materials'
+- text: 'Scoping assessment: broad geological context mapping for natural resource, environmental and
+    transport infrastructure development investigations'
+- text: 'Catchment assessment: broad-scale geological context for catchment-level river planning'
+links:
+  web_page: https://www.bgs.ac.uk/datasets/bgs-geology-250k/
+  user_guide_source: https://www.bgs.ac.uk/datasets/bgs-geology-250k/#download
+  enquiry: mailto:digitaldata@bgs.ac.uk?subject=BGS%20Geology%20250K%20licence%20enquiry
+  resellers: https://www.bgs.ac.uk/information-hub/licensing/#resellers
+image: assets/products/bgs-geology-250k.webp

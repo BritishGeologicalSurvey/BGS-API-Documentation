@@ -1,0 +1,83 @@
+name: GeoClimate shrink–swell
+slug: geoclimate-shrink-swell
+theme: hazards
+portfolio_pages:
+- 55
+- 56
+overview: BGS’s GeoClimate shrink–swell dataset provides information on the projected future change in
+  susceptibility of clay shrink–swell ground movement across Great Britain due to climate change. It integrates
+  BGS’s 1:50 000-scale geological mapping with CHESS-SCAPE’s climate projections (derived from UKCP18
+  from the UK Centre for Ecology & Hydrology (UKCEH) ) to model future soil-moisture deficit as an indicator
+  for susceptibility to shrink–swell subsidence. The dataset predicts where hazard susceptibility is likely
+  to change under three climate changes scenarios, based on Representative Concentration Pathways (RCP)
+  2.6, 4.5 and 8.5, and for three time periods (2030; 2050; 2070). A modelled baseline period is included
+  to support change analysis.
+benefits:
+- text: Provides forward-looking hazard intelligence for one of Britain’s most costly geohazards (approx.
+    £3 billion cost to UK economy in the last decade)
+- text: Helps organisations anticipate climate-driven increases in subsidence risk, enabling proactive
+    climate change adaptation
+- text: Offers consistent national coverage with scientifically robust climate modelling and geological
+    inputs
+- text: Multiple climate scenarios and future time periods support bespoke assessments to meet user-specific
+    requirements
+- text: Aligned to regulatory standards for climate change adaptation
+features:
+- text: National coverage across Great Britain (excluding some Scottish islands)
+- text: 1:50 000 scale (±50 m)
+- text: Five-class rating system of likelihood for susceptibility to increase, from highly unlikely to
+    extremely likely
+- text: GIS vector format for ease of geospatial analysis
+- text: Integration of highest available resolution UK climate change projections from expert climate
+    modeller UKCEH
+- text: Outputs provided for RCPs 2.6, 4.5 and 8.5, aligned with regulatory requirements for financial
+    stress testing and climate adaptation planning
+- text: Three future time periods provided; 2030s, 2050s and 2070s
+- text: Average, wetter and drier projected climate conditions are provided for each RCP/time period combination,
+    to allow users to consider average, best - and worst-case scenarios
+- text: Difference maps show the change relative to a modelled historic baseline to support change analysis
+- text: Periodically updated to incorporate new geological information, improved mapping and updated climate
+    projections
+licencing:
+- heading: Indicative pricing for internal business use
+  text: £0.45 per km² for commercial use.
+- heading: null
+  text: 'Bundle price: GeoClimate shrink–swell plus GeoSure® shrink–swell £0.60 per km²'
+- heading: null
+  text: (Subject to number of users, licence fee and data preparation fee.)
+- heading: null
+  text: Please get in touch touch (digitaldata@bgs.ac.uk) for further information on using BGS data for
+    other purposes, including re-selling.
+- heading: Access via a BGS data re-seller
+  text: Find a full list of BGS re-sellers on our website.
+target_markets:
+- text: Insurers and risk analysts
+- text: Banks and mortgage lenders
+- text: Environmental regulators
+- text: Infrastructure owners and operators
+- text: Civil, environmental and geotechnical engineers
+- text: Conveyancing reporters
+challenges:
+- text: Increases in subsidence insurance claims due to hotter, drier summers and increased rainfall variability
+- text: Regulatory pressures to provide evidence-based climate change adaptation policy plans
+- text: Uncertainty about how climate change will affect ground stability at regional and local scales
+- text: High costs associated with reactive repairs, insurance impacts and infrastructure disruption
+- text: Difficulty integrating climate projections with geological susceptibility
+use_cases:
+- text: 'Financial portfolio stress testing: banks, lenders and insurers must test their portfolios for
+    resilience to climate change risks'
+- text: 'Infrastructure planning: identifying buried and built infrastructure corridors likely to experience
+    increased ground movement to mitigate impacts'
+- text: 'Local planning policy: integrating future shrink–swell susceptibility into development control'
+- text: 'Asset maintenance scheduling: prioritising inspections in areas where susceptibility is projected
+    to increase'
+- text: 'Network resilience assessment: identifying areas of increasing susceptibility to support adaptation
+    planning and budgeting'
+- text: 'Climate adaptation strategies: designing foundations or drainage systems that are resilient to
+    future soil moisture extremes'
+links:
+  web_page: https://www.bgs.ac.uk/datasets/geoclimate-shrink-swell/
+  user_guide_source: null
+  enquiry: mailto:digitaldata@bgs.ac.uk?subject=BGS%20GeoClimate%20licence%20enquiry
+  resellers: https://www.bgs.ac.uk/information-hub/licensing/#resellers
+image: assets/products/geoclimate-shrink-swell.webp

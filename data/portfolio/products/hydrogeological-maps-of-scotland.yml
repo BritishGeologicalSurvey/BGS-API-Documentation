@@ -1,0 +1,75 @@
+name: Hydrogeological maps of Scotland
+slug: hydrogeological-maps-of-scotland
+theme: hydrogeology
+portfolio_pages:
+- 85
+- 86
+overview: BGS’s hydrogeological maps of Scotland provide an overview of groundwater characteristics, aquifer
+  behaviour, recharge potential and groundwater flow across Scotland. The groundwater vulnerability layer
+  assesses the ability for general contaminants to reach the water table. The aquifer productivity layer
+  illustrates how different geological units function as aquifers, how water moves through them and where
+  groundwater resources are likely to be significant or limited, for both bedrock and superficial deposits.
+benefits:
+- text: A consistent national interpretation of Scotland’s hydrogeology, essential for early-stage planning
+    and assessment
+- text: Insight into aquifer productivity, permeability and groundwater availability
+- text: Evidence for groundwater protection, pollution risk assessment and regulatory compliance
+- text: Support for water supply planning, especially in rural or remote areas where groundwater is a
+    key resource
+- text: A foundation for flood risk and drainage assessments, where groundwater behaviour influences design
+- text: A clear understanding of how geology controls groundwater flow, recharge and storage
+features:
+- text: National coverage across Scotland
+- text: 1:100 000 scale (±100 m)
+- text: Classification of aquifer productivity, including predominant groundwater flow mechanism and associated
+    likely borehole yields (litres per second)
+- text: Assessment of aquifer productivity for both bedrock and superficial deposit aquifers
+- text: Five-class assessment of aquifer vulnerability, from very low to very high
+- text: 'Assessment of individual factors influencing aquifer vulnerability, including:'
+  sub:
+  - bedrock groundwater flow mechanism
+  - maximum permeability of superficial and bedrock deposits
+  - thickness of overlying superficial deposits
+  - presence of significant clay deposits
+  - depth to groundwater in superficial and bedrock aquifers
+- text: GIS vector format for ease of geospatial analysis
+- text: Consistent methodology aligned with Scottish regulatory frameworks
+licencing:
+- heading: Indicative pricing for internal business use
+  text: £0.45 per km²
+- heading: null
+  text: (Subject to number of users, licence fee and data preparation fee.)
+- heading: null
+  text: Please get in touch (digitaldata@bgs.ac.uk) for further information on using BGS data for other
+    purposes, including re-selling.
+- heading: Access via a BGS data re - seller
+  text: Find a full list of BGS re-sellers on our website.
+target_markets:
+- text: Environmental consultants
+- text: Local authorities and planners
+- text: Water resource managers and rural water-supply providers
+- text: Environmental regulators
+- text: Researchers studying groundwater systems, recharge and environmental change
+challenges:
+- text: Difficulty assessing groundwater potential without specialist hydrogeological knowledge or on-site
+    testing
+- text: Regulatory requirements for groundwater considerations in planning and environmental permitting
+- text: Uncertainty about pollution vulnerability, particularly where superficial deposits obscure bedrock
+    aquifers
+- text: Challenges designing sustainable drainage systems, foundations or excavations without understanding
+    groundwater behaviour
+- text: Need for early-stage screening before detailed site investigations are commissioned
+use_cases:
+- text: 'Groundwater supply planning: identifying areas where bedrock or superficial aquifers may support
+    private or community water supplies'
+- text: 'Pollution risk assessment: evaluating the vulnerability of aquifers to contamination from agriculture,
+    industry, infrastructure or construction'
+- text: 'Catchment management: supporting river-basin planning and groundwater-dependent ecosystem assessments'
+- text: 'Environmental permitting: providing evidence for activities that may affect groundwater quality
+    or recharge'
+links:
+  web_page: https://www.bgs.ac.uk/datasets/hydrogeological-maps-of-scotland/
+  user_guide_source: https://www.bgs.ac.uk/download/hydrogeological-maps-of-scotland-user-guides/
+  enquiry: mailto:digitaldata@bgs.ac.uk?subject=BGS%20Groundwater%20vulnerability%20licence%20enquiry
+  resellers: null
+image: assets/products/hydrogeological-maps-of-scotland.webp

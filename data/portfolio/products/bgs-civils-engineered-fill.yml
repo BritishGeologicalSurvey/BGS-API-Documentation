@@ -1,0 +1,69 @@
+name: 'BGS Civils: engineered fill'
+slug: bgs-civils-engineered-fill
+theme: engineering-geology
+portfolio_pages:
+- 27
+- 28
+overview: 'BGS Civils: engineered fill identifies whether near-surface geological deposits across Great
+  Britain are suitable for use as engineered fill and, if so, what use they are best suited for. Engineered
+  fill is selected, placed and compacted to an appropriate specification in order that it will exhibit
+  a required engineering behaviour. This dataset translates 1:50 000-scale geological mapping and engineering
+  geology knowledge into a practical assessment distinguishing those deposits that are suitable for use
+  as engineered fill from unsuitable deposits. The dataset is part of the wider BGS Civils suite, which
+  provides engineering-relevant geological intelligence for early-stage design, asset management and risk
+  assessment.'
+benefits:
+- text: Better planning of earthworks, road bases and foundations where specific geotechnical properties
+    are required
+- text: Improved understanding of the fill-type characteristics of near - surface materials
+- text: More accurate forecasting of material re-use potential and costings of material removal and disposal
+- text: Consistent national-scale intelligence for feasibility and concept design, before intrusive investigation
+    is available
+features:
+- text: National coverage across Great Britain, aligned with BGS’s geological mapping
+- text: 1:50 000 scale (±50 m)
+- text: 'Classification of suitability for use as engineered fill, based on industry standards, considering:'
+  sub:
+  - geological material type
+  - maximum particle size
+  - presence of sulfate or readily oxidised sulfide
+- text: GIS vector format for ease of geospatial analysis
+- text: Consistent classification based on BGS’s engineering geology expertise and geotechnical literature
+- text: Part of the BGS Civils suite, which can be combined with datasets about geological materials and
+    their engineering characteristics
+licencing:
+- heading: Indicative pricing for internal business use
+  text: 'BGS Civils bundle: £0.58'
+- heading: null
+  text: 'Individual layers: £0.35'
+- heading: null
+  text: Prices per km²
+- heading: null
+  text: (Subject to number of users, licence fee and data preparation fee.)
+- heading: null
+  text: Please get in touch (digitaldata@bgs.ac.uk) for further information on using BGS data for other
+    purposes, including re-selling.
+- heading: Access via a BGS data re-seller
+  text: Find a full list of BGS re-sellers on our website.
+target_markets:
+- text: Civil and geotechnical engineers
+- text: Contractors
+- text: Utility and infrastructure operators
+- text: Local authorities and planners
+- text: Environmental consultants
+challenges:
+- text: Increasing cost of removing material off-site and especially disposal of unused material
+- text: 'Difficulty assessing re-use potential: without indicative data, it is hard to plan whether excavated
+    material can be re-used for engineered fill or must be disposed of'
+use_cases:
+- text: 'Highway and rail cuttings or embankments: understanding the suitability of geological materials
+    for re - use in engineered linear earthworks'
+- text: 'Local development planning: identifying whether geological resources needed for development can
+    be recycled on-site or need to be sourced from elsewhere'
+- text: 'Development contractors: estimating geological material disposal volumes and costs'
+links:
+  web_page: https://www.bgs.ac.uk/datasets/bgs-civils-engineered-fill/
+  user_guide_source: https://www.bgs.ac.uk/download/bgs-civils-user-guide/
+  enquiry: mailto:digitaldata@bgs.ac.uk?subject=BGS%20Civils%20licence%20enquiry
+  resellers: https://www.bgs.ac.uk/information-hub/licensing/#resellers
+image: assets/products/bgs-civils-engineered-fill.webp

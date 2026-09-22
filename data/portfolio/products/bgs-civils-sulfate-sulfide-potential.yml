@@ -1,0 +1,74 @@
+name: 'BGS Civils: sulfate/sulfide potential'
+slug: bgs-civils-sulfate-sulfide-potential
+theme: engineering-geology
+portfolio_pages:
+- 35
+- 36
+overview: 'BGS Civils: sulfate/sulfide potential identifies where naturally occurring or anthropogenic
+  sulfate and sulfide minerals in near - surface geological materials may pose a risk to buried concrete
+  and other construction materials. It translates 1:50 000-scale geological mapping, geochemistry and
+  engineering geology knowledge into practical domains indicating where ground conditions could generate
+  aggressive chemical environments, such as direct sulfate attack on concrete or sulfide oxidation producing
+  acidic pore-water conditions. The dataset is part of the wider BGS Civils suite, which provides engineering-relevant
+  geological intelligence for early-stage design, asset management and risk assessment.'
+benefits:
+- text: Early identification of sulfate-rich or sulfide-bearing ground that may attack concrete or steel
+- text: Reduced risk of costly remediation, redesign or structural deterioration caused by chemical attack
+- text: Improved environmental and safety management, especially where sulfide oxidation may generate
+    acidic or expansive conditions
+- text: Consistent national-scale intelligence that complements laboratory testing and site-specific geotechnical
+    investigation
+features:
+- text: National coverage across Great Britain
+- text: 1:50 000 scale (±50 m)
+- text: Sulfate/sulfide potential classification, indicating the likelihood of aggressive chemical conditions
+    based on the on the form and distribution of any sulfate or sulfide minerals in the ground
+- text: Includes indications for the impact of weathering and leaching of ground materials
+- text: GIS vector format for ease of geospatial analysis
+- text: Consistent classification based on BGS’s engineering geology expertise and geotechnical literature
+- text: Part of the BGS Civils suite, which can be combined with datasets about geological materials and
+    their engineering characteristics
+licencing:
+- heading: Indicative pricing for internal business use
+  text: 'BGS Civils bundle: £0.58'
+- heading: null
+  text: 'Individual layers: £0.35'
+- heading: null
+  text: Prices per km²
+- heading: null
+  text: (Subject to number of users, licence fee and data preparation fee.)
+- heading: null
+  text: Please get in touch (digitaldata@bgs.ac.uk) for further information on using BGS data for other
+    purposes, including re-selling.
+- heading: Access via a BGS data re-seller
+  text: Find a full list of BGS re-sellers on our website.
+target_markets:
+- text: Civil and geotechnical engineers
+- text: Developers and planners
+- text: Contractors
+- text: Transport and utilities infrastructure owners and operators
+- text: Environmental and geochemical specialists and hydrologists
+challenges:
+- text: Unexpected sulfate attack on concrete causing expansion and cracking in buried concrete
+- text: Oxidation of sulfides during excavation or material handling can generate acidic conditions, heave
+    or aggressive groundwater
+- text: Inaccurate early-stage material specifications without indicative sulfate/sulfide data
+- text: Cost overruns and delays from redesigns, replacement of materials or requirements for additional
+    protective measures
+- text: Regulatory standards such as BRE SD1 require assessment of sulfate conditions before construction
+use_cases:
+- text: 'Foundation and basement design: identifying whether sulfate-resistant concrete is required for
+    footings, slabs or retaining walls'
+- text: 'Utility installation: assessing chemical risks to buried pipes, chambers and concrete surrounds'
+- text: 'Earthworks and cuttings: understanding whether excavation may expose sulfide-bearing materials
+    to oxidation'
+- text: 'Transport corridor planning: mapping chemical ground risks along long linear routes to inform
+    material selection and material handling regimes'
+- text: 'Environmental impact assessments: identifying potential for acid generation or aggressive groundwater
+    conditions'
+links:
+  web_page: https://www.bgs.ac.uk/datasets/bgs-civils-sulfate-sulfide-potential/
+  user_guide_source: https://www.bgs.ac.uk/download/bgs-civils-user-guide/
+  enquiry: mailto:digitaldata@bgs.ac.uk?subject=BGS%20Civils%20licence%20enquiry
+  resellers: https://www.bgs.ac.uk/information-hub/licensing/#resellers
+image: assets/products/bgs-civils-sulfate-sulfide-potential.webp

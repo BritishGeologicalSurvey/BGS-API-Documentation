@@ -1,0 +1,72 @@
+name: 'BGS Civils: discontinuities'
+slug: bgs-civils-discontinuities
+theme: engineering-geology
+portfolio_pages:
+- 25
+- 26
+overview: 'BGS Civils: discontinuities identifies where geological discontinuities (such as bedding planes,
+  joints, fractures, faults and other structural weaknesses) are likely to influence engineering behaviour
+  in near - surface ground. It translates 1:50 000-scale geological mapping and engineering geology knowledge
+  into a practical assessment of how discontinuities may affect excavation stability, slope performance,
+  foundation design and ground/structure interaction. The dataset is part of the wider BGS Civils suite,
+  which provides engineering-relevant geological intelligence for early-stage design, asset management
+  and risk assessment.'
+benefits:
+- text: Anticipate excavation stability issues before intrusive investigation
+- text: Identify geological units where blocky, fissile or highly fractured behaviour is likely
+- text: Reduce uncertainty in slope design, foundation planning and earthworks
+- text: Improve safety by highlighting areas where discontinuities may lead to rockfalls, slips or wedge
+    failures
+- text: Support cost forecasting by identifying where additional support, reinforcement or excavation
+    methods may be required
+features:
+- text: National coverage across Great Britain, aligned with BGS’s geological mapping
+- text: 1:50 000 scale (±50 m)
+- text: Discontinuity type classification including stratification planes, foliation planes and fractures
+    as defined by the International Society for Rock Mechanics and by British Standard BS5930
+- text: GIS vector format for ease of geospatial analysis
+- text: Consistent classification based on BGS engineering geology expertise and geotechnical literature
+- text: Part of the BGS Civils suite, which can be combined with datasets about geological materials and
+    their engineering characteristics
+licencing:
+- heading: Indicative pricing for internal business use
+  text: 'BGS Civils bundle: £0.58'
+- heading: null
+  text: 'Individual layers: £0.35'
+- heading: null
+  text: Prices per km²
+- heading: null
+  text: (Subject to number of users, licence fee and data preparation fee.)
+- heading: null
+  text: Please get in touch (digitaldata@bgs.ac.uk) for further information on using BGS data for other
+    purposes, including re-selling.
+- heading: Access via a BGS data re-seller
+  text: Find a full list of BGS re-sellers on our website.
+target_markets:
+- text: Civil and geotechnical engineers
+- text: Transport and utilities infrastructure owners and operators
+- text: Contractors
+- text: Local authorities and planners
+- text: Slope stability specialists
+challenges:
+- text: Unexpected excavation instability increases costs due to unforeseen support requirements
+- text: Limited early-stage structural geology data ahead of site investigation
+- text: Difficulty planning site health and safety ahead of excavation
+- text: Difficulty predicting behaviour of weathered rock, which can complicate design
+use_cases:
+- text: 'Highway or rail cuttings: identifying where discontinuities may cause block falls or require
+    slope reinforcement'
+- text: 'Basement and foundation excavations: assessing whether rock masses will break into blocks or
+    require controlled excavation'
+- text: 'Tunnel and trench design: understanding how jointing and bedding may influence stability during
+    construction'
+- text: 'Slope stability assessments: evaluating potential for planar, wedge or toppling failures in rock
+    slopes'
+- text: 'Utility corridor planning: anticipating ground behaviour along long linear routes where discontinuities
+    vary significantly'
+links:
+  web_page: https://www.bgs.ac.uk/datasets/bgs-civils-discontinuities/
+  user_guide_source: https://www.bgs.ac.uk/download/bgs-civils-user-guide/
+  enquiry: mailto:digitaldata@bgs.ac.uk?subject=BGS%20Civils%20licence%20enquiry
+  resellers: https://www.bgs.ac.uk/information-hub/licensing/#resellers
+image: assets/products/bgs-civils-discontinuities.webp

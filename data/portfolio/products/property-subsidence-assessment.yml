@@ -1,0 +1,69 @@
+name: Property subsidence assessment
+slug: property-subsidence-assessment
+theme: hazards
+portfolio_pages:
+- 73
+- 74
+overview: BGS’s property subsidence assessment dataset evaluates the likelihood of shrink–swell subsidence
+  affecting individual properties across Great Britain. It combines geological data, tree locations and
+  building characteristics to estimate how susceptible a property is to ground movement caused by the
+  expansion and contraction of clay - rich soils. The dataset provides building-level insight, making
+  it suitable for insurance, risk modelling, conveyancing searches and portfolio management applications.
+benefits:
+- text: Granular insights into shrink–swell hazards at both building and postcode levels
+- text: Consideration of geological conditions, specific building attributes and local vegetation to provide
+    a tailored assessment of susceptibility
+- text: Regular updates mapping BGS susceptibility classes to the latest available building footprints
+- text: Specifically developed for use in the conveyancing sector to identify high-risk areas and support
+    customisation of risk profiles
+features:
+- text: National coverage across Great Britain
+- text: Property-level subsidence risk assessment, offering accessible, fine-scale insights
+- text: Postcode-level summaries available
+- text: 'A combined susceptibility score considering:'
+  sub:
+  - underlying geology type
+  - drainage systems
+  - number of storeys
+  - property age
+  - building type
+  - tree proximity
+- text: Provides a comprehensive understanding of subsidence risks
+- text: Individual scores per susceptibility factor are also provided, supporting flexible application
+    of the scoring
+- text: Consistent methodology, enabling comparison across regions and portfolios
+- text: Regular updates to reflect the latest available building footprint, building properties and tree
+    location data
+- text: GIS vector format for ease of geospatial analysis
+licencing:
+- heading: null
+  text: Due to third-party contractual terms, BGS is not able to supply this data directly for internal
+    business use.
+- heading: null
+  text: Property-specific reports for property subsidence assessment data are available from some of our
+    re-seller partners.
+- heading: null
+  text: Find a full list of BGS re-sellers on our website.
+- heading: null
+  text: To enquire about becoming a BGS data re-seller, please email digitaldata@bgs.ac.uk
+target_markets:
+- text: Conveyancing reporters
+challenges:
+- text: Limited visibility of property-level risk, as many datasets only provide regional or geological
+    summaries
+- text: Difficulty integrating geological data into property assessment workflows or interpreting geological
+    maps for subsidence hazards
+- text: Inconsistent or incomplete local information, making national-scale risk assessment difficult
+use_cases:
+- text: 'Property searches triage: assessing whether reported structural damage is consistent with shrink–swell
+    behaviour'
+- text: 'Proactive risk mitigation: understanding the factors contributing to subsidence hazards allows
+    property owners to implement risk mitigation strategies'
+- text: 'Property valuation: informing surveyors about long-term ground movement risk'
+- text: 'Property transactions: reporting potential hazards to properties during conveyancing searches'
+links:
+  web_page: https://www.bgs.ac.uk/datasets/property-subsidence-assessment/
+  user_guide_source: null
+  enquiry: mailto:digitaldata@bgs.ac.uk?subject=BGS%20Property%20subsidence%20assessment%20licence%20enquiry
+  resellers: null
+image: assets/products/property-subsidence-assessment.webp

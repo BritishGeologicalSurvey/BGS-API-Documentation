@@ -1,0 +1,10 @@
+# Site build. Zensical is pre-1.0: pin exact and bump deliberately.
+zensical==0.0.63
+# Fallback engine (EOL 2026-11-05; still builds this config): pip install "mkdocs-material==9.7.7" "mkdocs<2"
+pyyaml>=6
+nbformat>=5.10
+nbconvert>=7.16
+ipykernel>=6
+# only needed to re-extract data/portfolio/ from a new portfolio PDF
+pdfplumber>=0.11
+pillow>=10

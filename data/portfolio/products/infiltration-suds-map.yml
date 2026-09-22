@@ -1,0 +1,82 @@
+name: Infiltration SuDS map
+slug: infiltration-suds-map
+theme: hydrogeology
+portfolio_pages:
+- 87
+- 88
+overview: BGS’s infiltration SuDS map assesses the suitability of the ground for infiltration-based sustainable
+  drainage systems (SuDS) across Great Britain. Infiltration SuDS are drainage systems such as soakaways,
+  infiltration basins, infiltration trenches and permeable pavements that allow surface water to infiltrate
+  the ground. The dataset evaluates geological, hydrogeological and regulatory constraints on the infiltration
+  of water into the ground, considering ground instability hazards, protection of groundwater resources
+  and the drainage potential of geological deposits. Detailed and summary versions of the dataset are
+  available, providing a wealth of subsurface property information that can be used to make a preliminary
+  assessment of the suitability of the subsurface for infiltration SuDS.
+benefits:
+- text: Provides a nationally consistent assessment of infiltration potential, reducing uncertainty in
+    the early stages of a project
+- text: Supports compliance with planning policy, which increasingly requires infiltration SuDS in new
+    developments
+- text: Helps identify where infiltration SuDS are feasible, constrained or unsuitable, avoiding costly
+    design changes later
+- text: Provides an evidence-driven assessment of infiltration performance ahead of on-site testing
+- text: Assists in flood risk reduction, surface water management and climate resilience planning
+features:
+- text: National coverage across Great Britain
+- text: 1:50 000 scale (±50 m)
+- text: GeoReports are available for site-specific queries
+- text: GIS vector format for ease of geospatial analysis
+- text: 'Detailed assessment of infiltration constraints, including: o permeability of bedrock and superficial
+    deposits o thickness of overlying superficial deposits o depth to the water table o interactions with
+    river floodplains o potential pollutant mobility in aquifer deposits o sources of pollutants from
+    artificial ground o presence of groundwater protection zones o natural ground instability hazards
+    o ground instability hazards relating to legacy mine workings o groundwater flooding'
+  sub:
+  - 'drainage potential, considering:'
+  - 'groundwater protection, considering:'
+  - 'potential for infiltration to induce hazards, considering:'
+- text: Choice of summary overview or detailed breakdown of individual factors allows users to tailor
+    the assessment to their specific use case and consider the most relevant constraints
+- text: Four-class suitability rating system, from favourable to highly constrained
+- text: Consistent methodology, enabling comparison across sites and regions
+- text: Designed for early-stage screening, complementing site-specific infiltration testing
+licencing:
+- heading: Indicative pricing for internal business use
+  text: 'Detailed: £1.71'
+- heading: null
+  text: 'Summary: £0.58'
+- heading: null
+  text: Prices per km²
+- heading: null
+  text: (Subject to number of users, licence fee and data preparation fee.)
+- heading: null
+  text: Please get in touch (digitaldata@bgs.ac.uk) for further information on using BGS data for other
+    purposes, including re-selling.
+- heading: Access via a BGS data re-seller
+  text: Find a full list of BGS re-sellers on our website.
+target_markets:
+- text: Local authorities and planners • Developers
+- text: Civil engineers and drainage designers • Water and sewerage companies
+- text: Environmental and geotechnical engineering • Transport and utilities infrastructure owners consultants
+challenges:
+- text: Difficulty assessing the most appropriate form of infiltration SuDS, especially in areas with
+    complex geology or shallow groundwater
+- text: Regulatory pressure to include infiltration SuDS in planning applications before site testing,
+    without clear evidence of feasibility
+- text: Unexpected design failures when infiltration capacity is overestimated
+- text: High costs associated with redesigning drainage systems when infiltration proves unsuitable
+- text: Challenges interpreting geological and hydrological information for drainage planning
+use_cases:
+- text: 'Early-stage drainage strategy design: screening sites to determine whether infiltration SuDS
+    are feasible before detailed investigation'
+- text: 'Planning applications: providing evidence to meet local planning requirements'
+- text: 'Flood risk assessments: identifying opportunities to reduce run-off through infiltration'
+- text: 'Urban redevelopment: evaluating whether brownfield sites can incorporate infiltration drainage'
+- text: 'Catchment-scale planning: supporting local authorities in identifying areas suitable for nature-based
+    drainage solutions'
+links:
+  web_page: https://www.bgs.ac.uk/datasets/infiltration-suds-map/
+  user_guide_source: null
+  enquiry: mailto:digitaldata@bgs.ac.uk?subject=BGS%20Infiltration%20SuDS%20map%20licence%20enquiry
+  resellers: null
+image: assets/products/infiltration-suds-map.webp

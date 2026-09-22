@@ -1,0 +1,80 @@
+name: GeoSure® insurance and lenders product
+slug: geosure-insurance-and-lenders-product
+theme: hazards
+portfolio_pages:
+- 65
+- 66
+overview: BGS’s GeoSure® insurance and lenders product provides an index - level assessment of potential
+  financial loss from natural ground movement on low-rise buildings across Great Britain. It combines
+  six geological hazards — landslides, shrink–swell subsidence, soluble rocks, running sands, compressible
+  ground and collapsible deposits — into a normalised hazard rating. A combined hazard score for all six
+  hazards is provided along with hazard scores for individual hazards. Score areas are available attached
+  to postcodes or as raster and vector map formats with hazard scores presented as geospatial extents,
+  with national coverage. Postcode data is updated biannually with new releases of OS Code-Point® data.
+benefits:
+- text: Offers a standardised, national-scale hazard index for insurance and lending decisions
+- text: Supports hazard identification, underwriting and susceptibility estimation using statistically
+    evaluated and expert elicited hazard models
+- text: Provides consistent hazard ratings, enabling rapid integration into insurance workflows
+- text: Provides combined and individual hazard scores supporting user preferences and flexibility of
+    application
+- text: Scores attached to regularly updated postcodes, allowing rapid, location-enabled analysis
+- text: Available as raster and vector map formats with hazard scores presented as geospatial extents
+    allowing for bespoke analysis
+features:
+- text: National coverage across Great Britain
+- text: 1:50 000 scale (±50 m)
+- text: 'Various GIS formats for ease of geospatial analysis:'
+- text: 'vector point data representing postcode centroids: summary hazard ratin bespoke statistical summaries
+    applied depending on postcode size'
+  sub:
+  - vector polygon map data with hazard ratings provided per geological unit
+  - raster (25 m cell size) map data with hazard ratings provided per geologic
+- text: Hazard ratings for six ground instability hazards have been normalised to con the impact from
+    each hazard and balance them against one another
+- text: Normalised ratings for each individual hazard are summed, giving a combine likelihood of the impact
+    from all six hazards
+- text: Coverage of every postcode in Great Britain, updated biannually with OS Cod
+- text: Raster and vector map formats present hazard scores as geospatial extents w supporting bespoke
+    analysis
+- text: Gives a unified hazard rating specifically designed for use in insurance and le potential hazard
+    for low-rise buildings (two-storey, residential buildings) an foundations of less than 2 m
+licencing:
+- heading: 'Access only via BGS data re-seller:'
+  text: Find a full list of BGS re-sellers on our website .
+- heading: null
+  text: For enquiries about becoming a BGS data re-seller please contact
+- heading: null
+  text: digitaldata@bgs.ac.uk
+target_markets:
+- text: Insurance companies
+- text: Lenders
+challenges:
+- text: Difficulty specifically assessing impacts to buildings from ground movement consistently across
+    regions
+- text: Assessing multiple geological hazards in a single, comparable metric
+- text: Lack of flexibility to assess specific areas of interest to single or multiple ground instability
+    hazards
+- text: Necessary to assess entire portfolios for hazard susceptibility with diverse spatial coverage
+- text: Regulatory requirements to stress-test portfolios for financial resilience to hazards
+- text: Need for accessible, postcode-level insights
+- text: Requirement for regular updates to location information, for example postcodes
+use_cases:
+- text: 'Underwriting: flagging high-risk postcodes or areas of interest for additional scrutiny or premium
+    adjustment'
+- text: 'Portfolio risk modelling: aggregating hazard scores to understand exposure across regions'
+- text: 'Claims triage: identifying whether geological conditions may have contributed to subsidence'
+- text: 'Risk diversification: identifying hazard hotspots or low-susceptibility, untapped markets'
+- text: 'Mortgage originations: identifying susceptibility to a range of ground instability hazards'
+- text: 'Back book analysis: understanding hazard susceptibility at a portfolio scale'
+- text: 'Stress testing: testing portfolios to ensure financial resilience in line with regulatory requirements'
+- text: 'Re-insurance placement: understanding the level of re-insurance required to safeguard portfolios
+    Contact Web page QR code Further information To make an enquiry about > Web page licencing this data,
+    please > Metadata fill out a contact form, which can be accessed via the Licence this data link on
+    the web page, or email digitaldata@bgs.ac.uk .'
+links:
+  web_page: https://www.bgs.ac.uk/datasets/geosure-insurance-product/#access
+  user_guide_source: null
+  enquiry: mailto:digitaldata@bgs.ac.uk?subject=BGS%20GeoSure%20insurers%20and%20lenders%20product%20licence%20enquiry%20
+  resellers: https://www.bgs.ac.uk/information-hub/licensing/#resellers
+image: assets/products/geosure-insurance-and-lenders-product.webp

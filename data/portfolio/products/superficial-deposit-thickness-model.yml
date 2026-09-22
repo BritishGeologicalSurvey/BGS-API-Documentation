@@ -1,0 +1,70 @@
+name: Superficial deposit thickness model
+slug: superficial-deposit-thickness-model
+theme: baseline-geology
+portfolio_pages:
+- 15
+- 16
+overview:
+- text: 'observation-driven model: direct interpolation of thickness from borehole data'
+- text: 'terrain-adjusted model: thickness model combining boreholes, mapped superficial boundaries and
+    terrain'
+- text: 'rockhead elevation model: interpolated elevation of the bedrock surface relative to Ordnance
+    Datum'
+- text: 'data distance (DataDist) grid: distance from each grid cell to the nearest borehole or mapped
+    boundary, used as a proxy for uncertainty'
+benefits:
+- text: Derived from expert interpretation of a national repository of borehole logs with bespoke data-cleaning
+    workflows applied
+- text: Supports early-stage planning, feasibility studies and conceptual ground models ahead of site
+    investigation
+- text: Provides rockhead elevation, critical for engineering design, hydrogeology and environmental assessments
+- text: Highlights uncertainty via the DataDist layer, helping users judge confidence in modelled values
+- text: Integrates field mapping of superficial deposit coverage with site - specific observations of
+    deposit thickness from boreholes and topography
+features:
+- text: National coverage across Great Britain, aligned with BGS 1:50 0000-scale geological mapping
+- text: 1:100 000-scale with a vertical modelled precision of ±5 m elevation, presented as 50 m raster
+    cells aligned to OS Terrain® 50 Digital Terrain Model
+- text: Integration of borehole, geological mapping and terrain data
+- text: Modelled superficial thickness and rockhead elevation values
+- text: Minimum 1 m thickness applied where superficial deposits are mapped
+- text: Uncertainty proxy via DataDist
+- text: Designed for regional - to local-scale use (not site-specific)
+- text: Clear documentation of limitations and assumptions
+- text: Open access available for a generalised, low-resolution version of the data
+licencing:
+- heading: Indicative pricing for internal business use
+  text: £0.18 per km2
+- heading: null
+  text: (Subject to number of users, licence fee and data preparation fee.)
+- heading: null
+  text: Please get in touch (digitaldata@bgs.ac.uk ) for further information on using BGS data for other
+    purposes, including re-selling.
+- heading: Access via a BGS data re-seller
+  text: Find a full list of BGS re-sellers on our website.
+target_markets:
+- text: Civil and geotechnical engineers
+- text: Hydrogeologists
+- text: Environmental scientists and consultants
+- text: Geologists and geomorphologists
+- text: Local authorities and planners
+challenges:
+- text: Time-consuming manual interpretation of geological maps, topography and boreholes
+- text: Limited access to borehole logs
+- text: Difficulty understanding regional variation in superficial thickness along linear asset networks
+- text: Uncertainty in rockhead depth before site investigation
+- text: Need to understand uncertainty levels in modelled data
+use_cases:
+- text: 'Prefeasibility engineering studies: estimating likely excavation depths or foundation requirements'
+- text: 'Groundwater modelling: identifying superficial aquifers and confining layers'
+- text: 'Flood risk and drainage assessments: understanding sediment thickness in floodplains'
+- text: 'Route selection for infrastructure: screening corridors for areas of deep superficial deposits'
+- text: 'Environmental impact assessments: establishing baseline geological conditions'
+- text: 'Research into glacial and post-glacial landscape evolution: using thickness patterns to infer
+    palaeo - topography'
+links:
+  web_page: https://www.bgs.ac.uk/datasets/superficial-deposit-thickness-model/
+  user_guide_source: https://www.bgs.ac.uk/datasets/superficial-thickness-model/#download
+  enquiry: mailto:digitaldata@bgs.ac.uk
+  resellers: https://www.bgs.ac.uk/information-hub/licensing/#resellers
+image: assets/products/superficial-deposit-thickness-model.webp

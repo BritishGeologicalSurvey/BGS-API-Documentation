@@ -1,0 +1,64 @@
+name: Depth to groundwater
+slug: depth-to-groundwater
+theme: hydrogeology
+portfolio_pages:
+- 81
+- 82
+overview: BGS’s depth to groundwater dataset assesses how deep the (phreatic) water table is likely to
+  be beneath the ground surface across Great Britain. It draws on topography, knowledge of surface water/groundwater
+  interactions and permeability mapping to estimate the typical depth to groundwater. The data also flags
+  areas where geological conditions may result in significant variations in groundwater levels from those
+  presented by the model. Due to the poor spatial distribution of groundwater observations, the model
+  does not utilise measured groundwater levels in wells or boreholes directly, but they have been used
+  to validate model performance.
+benefits:
+- text: Offers a nationally consistent indication of groundwater depth
+- text: Helps identify where shallow groundwater may pose risks to basements, foundations, excavations
+    and underground infrastructure
+- text: Provides evidence for flood risk assessments, especially in areas prone to groundwater emergence
+- text: Offers a modelled view of groundwater levels where local monitoring data is limited or unavailable
+- text: Helps screen sites before detailed hydrogeological investigations are commissioned
+features:
+- text: National coverage across Great Britain
+- text: 1:50 000 scale (±50 m)
+- text: Modelled depth to groundwater values presented as a raster grid
+- text: Supplementary vector overlay identifying areas where phreatic groundwater levels may vary significantly
+    from the raster grid
+- text: GIS vector and raster formats for ease of geospatial analysis
+licencing:
+- heading: Indicative pricing for internal business use
+  text: £0.18 per km²
+- heading: null
+  text: (Subject to number of users, licence fee and data preparation fee.)
+- heading: null
+  text: Please get in touch (digitaldata@bgs.ac.uk) for further information on using BGS data for other
+    purposes, including re-selling.
+- heading: Access via a BGS data re-seller
+  text: Find a full list of BGS re-sellers on our website.
+target_markets:
+- text: Civil, environmental and geotechnical engineers
+- text: Local authorities and planners
+- text: Developers
+- text: Water and sewerage companies
+- text: Transport and utilities infrastructure owners
+challenges:
+- text: Difficulty accessing consistent geological information at national and regional scale from disparate
+    sources
+- text: Need for digital geospatial data rather than legacy paper maps
+- text: Uncertainty about subsurface conditions making early-stage assessment difficult without authoritative
+    mapping
+- text: Time-consuming compilation of robust geological evidence to meet legislative and regulatory requirements
+- text: Challenging ground conditions cause delays and cost overruns if not identified early
+- text: Complexity of national asset networks with a need to understand ground conditions for thousands
+    of distributed assets
+use_cases:
+- text: 'Construction planning: assessing dewatering needs for excavations, basements or utility trenches'
+- text: 'Flood risk assessment: evaluating the potential for groundwater emergence during wet periods'
+- text: 'Infrastructure resilience: screening rail cuttings and tunnels for groundwater-related risks'
+- text: 'Land-use planning: identifying constraints for developments in low-lying or permeable areas'
+links:
+  web_page: https://www.bgs.ac.uk/datasets/depth-to-groundwater/
+  user_guide_source: https://www.bgs.ac.uk/download/depth-to-groundwater-user-guide/
+  enquiry: mailto:digitaldata@bgs.ac.uk?subject=BGS%20Depth%20to%20groundwater%20licence%20enquiry
+  resellers: null
+image: assets/products/depth-to-groundwater.webp

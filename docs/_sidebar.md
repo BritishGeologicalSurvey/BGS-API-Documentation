@@ -1,3 +1,0 @@
-- [BGS API - Features](content/features_api/features_api)
-- [BGS Maps API - WMS](content/maps_api/maps_api)
-- [BGS Sensors API](content/sensors_api/sensors_api)

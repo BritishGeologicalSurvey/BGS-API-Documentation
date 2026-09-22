@@ -1,0 +1,8 @@
+- slug: offshore-geology
+  title: Offshore geology
+  intro: BGS's offshore geology products describe the seabed and sub-seabed geology of the UK continental
+    shelf.
+  products:
+  - offshore-bedrock-250k
+  taglines:
+    offshore-bedrock-250k: Bedrock geology of the UK Exclusive Economic Zone at 1:250 000

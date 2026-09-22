@@ -1,0 +1,59 @@
+name: London Earth
+slug: london-earth
+theme: geochemistry
+portfolio_pages:
+- 45
+- 46
+overview: BGS’s London Earth is a high-density geochemical survey of topsoil across Greater London. It
+  represents the world’s largest systematic geochemical mapping of an urban area, with 6288 sampling locations
+  across the Greater London Authority area. The dataset provides concentrations of more than 50 inorganic
+  chemical elements in topsoil, measured using X-ray fluorescence spectrometry.
+benefits:
+- text: Provides baseline geochemical values that contextualise site - specific investigations
+- text: Supports environmental assessments, urban planning, public health research and contaminated land
+    management
+- text: Identifies patterns of natural vs. human-derived chemical variation across the city
+- text: High-quality, laboratory-verified data that improves the accuracy of environmental modelling and
+    risk assessment
+features:
+- text: 'High sampling density: about four samples collected per km ² across the Greater London Authority
+    area, a much greater density than for national rural sampling'
+- text: 'Multi-element analysis: more than 50 inorganic elements measured via X-ray fluorescence spectrometry,
+    with resultant analytical data available to licence'
+- text: PDF sample maps of concentrations of 10 environmentally sensitive elements available to download
+- text: Consistent, unbiased sampling methodology across the entire city
+- text: Baseline dataset suitable for comparison with future surveys or site-specific investigations
+- text: Reflects both geology and anthropogenic influences, enabling nuanced interpretation
+licencing:
+- heading: null
+  text: PDF geochemical maps and short interpretations for a selection of ten environmentally sensitive
+    elements are available for commercial, research and public use under Open Government Licence .
+- heading: null
+  text: Underpinning survey point data is available under licence on request. There is no charge for this
+    data but is subject to a data preparation fee.
+- heading: null
+  text: Please get in touch (digitaldata@bgs.ac.uk) for more information.
+target_markets:
+- text: Environmental consultants
+- text: Urban planners and local authorities
+- text: Public health researchers
+- text: Geochemists and academic researchers
+- text: Developers and engineering firms
+challenges:
+- text: Lack of reliable baseline soil chemistry data for London
+- text: Difficulty distinguishing natural vs. anthropogenic contamination without a consistent reference
+    dataset
+- text: High cost of unnecessary remediation due to limited contextual geochemical information
+- text: Fragmented or inconsistent sampling approaches in previous local studies
+use_cases:
+- text: 'Contaminated land assessments: using baseline element concentrations to determine whether elevated
+    levels are unusual or expected for the area'
+- text: 'Urban redevelopment planning: screening soil chemistry before construction or remediation'
+- text: 'Health and exposure studies: investigating links between soil chemistry and public health outcomes'
+- text: 'Environmental monitoring: tracking long-term changes in soil chemistry across London'
+links:
+  web_page: https://www.bgs.ac.uk/datasets/london-earth/
+  user_guide_source: null
+  enquiry: mailto:digitaldata@bgs.ac.uk?subject=BGS%20Stream%20sediment%20geochemistry%20licence%20enquiry
+  resellers: null
+image: assets/products/london-earth.webp

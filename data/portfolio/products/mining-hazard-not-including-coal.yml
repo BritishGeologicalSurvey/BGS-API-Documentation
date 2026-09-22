@@ -1,0 +1,74 @@
+name: Mining hazard (not including coal)
+slug: mining-hazard-not-including-coal
+theme: hazards
+portfolio_pages:
+- 71
+- 72
+overview: BGS’s mining hazard (not including coal) dataset provides a national assessment of where past
+  underground non-coal mining may have occurred and the potential for associated ground instability. It
+  maps the location, extent and indicative hazard level of former underground workings across Great Britain,
+  drawing on geological evidence, mine plans, scientific literature and expert knowledge, and represents
+  the most comprehensive national overview of Britain’s non-coal mining legacy.
+benefits:
+- text: Consistent, national classification of non-coal mining hazards, supporting early-stage planning
+    and risk screening
+- text: Helps identify where underground voids may exist, even when no surface evidence remains
+- text: Compiles evidence from various sources into a single resource, streamlining data discovery and
+    evidence-gathering efforts
+- text: Applies a bespoke methodology for seven different commodity types, considering different mining
+    styles to provide a comprehensive and robust assessment
+- text: Helps prioritise site investigations, focusing resources where mining is likely or known
+features:
+- text: National coverage across Great Britain
+- text: 1:50 000 scale (±50 m)
+- text: Five-class hazard rating system with detailed class descriptions
+- text: Name of legacy working provided (where known) to support further research
+- text: Bespoke methodology for seven commodity categories, each processed using tailored geological criteria
+- text: Derived from multiple sources, including authoritative BGS geological mapping, mine abandonment
+    plans, BGS databases of known working locations and mining literature reviews
+- text: GIS vector format for ease of geospatial analysis
+- text: Periodically updated to incorporate newly available mining records and improved geological mapping
+- text: Designed for early-stage assessment, complementing but not replacing site-specific investigation
+- text: Open access available for a generalised, low-resolution version of the data
+licencing:
+- heading: Indicative pricing for internal business use
+  text: £0.35 per km²
+- heading: null
+  text: (Subject to number of users, licence fee and data preparation fee.)
+- heading: null
+  text: Please get in touch (digitaldata@bgs.ac.uk) for further information on using BGS data for other
+    purposes, including re-selling.
+- heading: Access via a BGS data re-seller
+  text: Find a full list of BGS re-sellers on our website.
+target_markets:
+- text: Local authorities and planning officers
+- text: Transport and utilities infrastructure owners and managers
+- text: Engineering and environmental consultants
+- text: Insurers, lenders and risk assessors
+- text: Conveyancing reporters
+- text: Developers and landowners
+- text: Mineral and land-use planners
+challenges:
+- text: Lack of reliable historical mining records, especially for small-scale or undocumented workings
+- text: Unexpected ground collapse or subsidence, which are costly to repair and mitigate
+- text: Fragmented data sources spread over multiple repositories, requiring expert interpretation
+- text: Regulatory and due-diligence requirements for land development and asset management
+- text: Uncertainty about the extents of old workings, especially where only partial plans exist
+use_cases:
+- text: 'Infrastructure risk assessment: identifying roads, pipelines or railways at risk from collapse'
+- text: 'Planning applications: screening development sites for potential mining-related hazards'
+- text: 'Site investigation scoping: determining where intrusive investigation or geophysical surveys
+    are required'
+- text: 'Asset management: prioritising maintenance or monitoring in areas with known or likely underground
+    voids'
+- text: 'Emergency response planning: understanding areas susceptible to sudden ground failure'
+- text: 'Insurers: supporting insurance underwriting and claims analysis for ground subsidence'
+- text: 'Lenders: informing loan approval for mortgage applications'
+- text: 'Property transactions: reporting potential hazards to properties during conveyancing searches'
+- text: 'Historical mining research: mapping the distribution of non-coal mining across Great Britain'
+links:
+  web_page: https://www.bgs.ac.uk/datasets/mining-hazard-not-including-coal-coverage/
+  user_guide_source: null
+  enquiry: mailto:digitaldata@bgs.ac.uk?subject=BGS%20Mining%20hazard%20(not%20including%20coal)%20licence%20enquiry
+  resellers: null
+image: assets/products/mining-hazard-not-including-coal.webp

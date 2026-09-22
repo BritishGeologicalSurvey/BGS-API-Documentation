@@ -1,0 +1,73 @@
+name: GeoSure® shrink–swell 3D for London
+slug: geosure-shrink-swell-3d-for-london
+theme: hazards
+portfolio_pages:
+- 67
+- 68
+overview: BGS’s GeoSure® shrink–swell 3D for London and the Thames Valley dataset is a specialised ground
+  stability dataset modelling the three - dimensional distribution and behaviour of shrink–swell clays
+  beneath one of the UK’s most subsidence-prone and infrastructure-dense regions. It builds on the standard
+  GeoSure® shrink–swell dataset by incorporating depth-based modelling, engineering geology and detailed
+  characterisation of the London Clay Formation, the Lambeth Group and other clay-rich geological units
+  that are known for significant volume change. The dataset provides a spatially continuous 3D assessment
+  of how clay behaviour varies with depth, moisture and geological structure.
+benefits:
+- text: anticipate volume change behaviour at depth, not just at the surface
+- text: improve foundation design, especially for basements, deep excavations and infrastructure
+- text: reduce uncertainty in ground movement risk, particularly in areas with clay deposits at depth
+- text: support urban planning and asset management in a region where shrink–swell is a major cause of
+    structural damage
+- text: integrate 3D geological behaviour into risk modelling, engineering design and resilience planning
+features:
+- text: Coverage of central London and surrounding transport corridors
+- text: 1:50 000 scale (±50 m)
+- text: 3D shrink–swell modelling, capturing depth-dependent behaviour of clay formations at 1 m intervals
+    to a depth of 5 m, beyond which shrink–swell susceptibility classifications are provided at 5 m intervals
+    to a depth of 20 m
+- text: High-resolution characterisation of the London Clay Formation, the Lambeth Group and other key
+    geological units derived from the BGS London Lithoframe model
+- text: Modelling is constrained by borehole records, geological maps and geophysical data compiled by
+    regional geological experts from the premier provider of British geological data
+- text: Five hazard classes, indicating susceptibility to volume change at different depths
+- text: GIS-ready vector datasets
+licencing:
+- heading: Indicative pricing for internal business use
+  text: Price on application for commercial use (subject to number of users, licence fee and data preparation
+    fee).
+- heading: null
+  text: Please get in touch (digitaldata@bgs.ac.uk) for further information on using BGS data for other
+    purposes, including re-selling.
+- heading: Access via a BGS data re-seller
+  text: Find a full list of BGS re-sellers on our website.
+target_markets:
+- text: Geotechnical, environmental and civil engineers
+- text: Local authorities, planners and developers
+- text: Transport and utilities infrastructure owners and operators
+- text: Insurance, lenders and risk analysts
+challenges:
+- text: Surface-only datasets are insufficient for deep foundations, tunnels and basements
+- text: Highly variable clay behaviour across short distances makes early-stage design difficult
+- text: Climate-driven moisture changes increase shrink–swell risk, especially during droughts
+- text: High cost of unexpected ground movement, including structural damage, service disruption and insurance
+    claims
+- text: Limited visibility of subsurface clay properties, especially in densely built-up areas with restricted
+    access for investigation
+- text: Complex geological layering in the London Basin, where different clay units behave differently
+    with depth
+use_cases:
+- text: 'Basement and deep foundation design: understanding shrink–swell behaviour at multiple depths
+    to select appropriate foundation types'
+- text: 'Tunnel alignment planning: identifying zones of high-volume change potential along underground
+    routes'
+- text: 'Utility corridor management: assessing risks to pipelines, sewers and cables buried at varying
+    depths'
+- text: 'Subsidence risk modelling: supporting insurers and local authorities in identifying high-risk
+    neighbourhoods'
+- text: 'Climate resilience planning: evaluating how drought-driven moisture loss may affect clay shrinkage
+    at depth'
+links:
+  web_page: https://www.bgs.ac.uk/datasets/bgs-geosure-shrink-swell-3d-for-london-and-thames-valley/
+  user_guide_source: https://www.bgs.ac.uk/download/bgs-geosure-shrink-swell-3d-for-london-and-thames-valley-user-guide/
+  enquiry: mailto:digitaldata@bgs.ac.uk?subject=BGS%20Geosure%20shrink-swell%203D%20for%20London%20licence%20enquiry
+  resellers: null
+image: assets/products/geosure-shrink-swell-3d-for-london.webp

@@ -1,0 +1,70 @@
+name: Mineral resources
+slug: mineral-resources
+theme: minerals
+portfolio_pages:
+- 95
+- 96
+overview: BGS’s mineral resources dataset assesses the location and extent of potential mineral resources
+  for various commodities across Great Britain. It identifies areas where geological conditions indicate
+  the presence of economically important minerals. Focus is given to construction and industrial minerals
+  due to the importance of indigenous supply to the UK economy. It supports long-term resource planning,
+  safeguarding and sustainable development by offering an authoritative, geology-based view of where mineral
+  resources are likely to occur.
+benefits:
+- text: Offers a consistent, authoritative national overview of mineral resource potential
+- text: Supports mineral safeguarding, helping planning authorities protect important resources from sterilisation
+    by development
+- text: Helps identify areas with future extraction potential, supporting long-term supply security
+- text: Provides evidence for planning applications, environmental assessments and land-use decisions
+- text: Reduces uncertainty where local mineral information is incomplete or outdated
+- text: Helps industry and Government understand strategic mineral distribution
+features:
+- text: National coverage across Great Britain
+- text: 1:50 000 scale (±50 m)
+- text: Geology-based delineation of mineral resource areas, providing details of deposit type and associated
+    economic mineral resource
+- text: Coverage of multiple commodity types, including aggregates, industrial minerals, building stone
+    and construction resources
+- text: GIS vector format for ease of geospatial analysis
+- text: Complements other BGS datasets including BritPits, geological maps and mineral occurrence records
+licencing:
+- heading: Indicative pricing for internal business use
+  text: £0.14 per km²
+- heading: null
+  text: (Subject to number of users, licence fee and data preparation fee.)
+- heading: null
+  text: Please get in touch (digitaldata@bgs.ac.uk) for further information on using BGS data for other
+    purposes, including re-selling.
+- heading: Access via a BGS data re-seller
+  text: Find a full list of BGS re-sellers on our website.
+target_markets:
+- text: Mineral planning authorities and local government
+- text: Mineral extraction companies and resource planners
+- text: Environmental and engineering consultants
+- text: Developers
+- text: National and regional policymakers
+challenges:
+- text: Difficulty identifying mineral resources without specialist geological knowledge
+- text: Fragmented or outdated local datasets, especially for older or unworked deposits
+- text: Regulatory requirements to consider mineral safeguarding in planning decisions
+- text: Uncertainty about future resource potential, particularly for construction aggregates and industrial
+    minerals
+- text: Challenges assessing sterilisation risk, where development may prevent future extraction
+- text: Need for early-stage screening before detailed geological investigations are commissioned
+use_cases:
+- text: 'Mineral safeguarding assessments: determining whether proposed developments lie within safeguarded
+    resource areas'
+- text: 'Planning applications: providing evidence on mineral potential to support or challenge development
+    proposals'
+- text: 'Resource evaluation: identifying areas with potential for future quarrying or extraction'
+- text: 'Strategic planning: supporting local and national policies on mineral supply and land-use allocation'
+- text: 'Environmental impact assessments: understanding how developments may affect mineral resources
+    or extraction viability'
+- text: 'Industry analysis: mapping the distribution of aggregates, building stone, industrial minerals
+    or energy minerals'
+links:
+  web_page: https://www.bgs.ac.uk/datasets/bgs-mineral-resources/
+  user_guide_source: https://www.bgs.ac.uk/datasets/bgs-mineral-resources/#download
+  enquiry: mailto:digitaldata@bgs.ac.uk?subject=BGS%20Mineral%20resources%20licence%20enquiry
+  resellers: null
+image: assets/products/mineral-resources.webp

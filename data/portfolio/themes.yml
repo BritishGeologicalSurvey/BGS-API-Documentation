@@ -1,0 +1,116 @@
+- slug: baseline-geology
+  title: Baseline geology
+  intro: BGS’s baseline geology products provide information on the type, classification, extent and variability
+    of rocks, sediments and soils in Great Britain.
+  products:
+  - bgs-geology-10-25k
+  - bgs-geology-50k
+  - bgs-geology-250k
+  - soil-parent-material-model
+  - superficial-deposit-thickness-model
+  taglines:
+    bgs-geology-10-25k: Site-scale geological mapping
+    bgs-geology-50k: National coverage geological mapping
+    bgs-geology-250k: Generalised national geology map
+    soil-parent-material-model: National mapping of soil-forming materials
+    superficial-deposit-thickness-model: Modelled regional variation in the thickness of superficial and
+      unconsolidated deposits
+- slug: engineering-geology
+  title: Engineering geology
+  intro: BGS’s engineering geology products map the key engineering characteristics of the geology of
+    Great Britain, providing classifications that indicate the expected engineering characteristics.
+  products:
+  - bgs-civils
+  - bgs-civils-bulking-volume
+  - bgs-civils-corrosivity-ferrous
+  - bgs-civils-discontinuities
+  - bgs-civils-engineered-fill
+  - bgs-civils-excavatability
+  - bgs-civils-foundation-conditions
+  - bgs-civils-strength
+  - bgs-civils-sulfate-sulfide-potential
+  - resistivity
+  taglines:
+    resistivity: Modelled resistivity values for geological materials
+- slug: geochemistry
+  title: Geochemistry
+  intro: BGS’s geochemistry products provide information on the chemical composition of soils and stream
+    sediments in the UK.
+  products:
+  - uk-stream-sediment-geochemistry
+  - uk-topsoil-geochemistry
+  - london-earth
+  - soil-chemistry-for-environmental-assessments
+  taglines:
+    uk-stream-sediment-geochemistry: Comprehensive geochemical baseline mapping for the UK, based on systematic
+      stream sediment sampling
+    uk-topsoil-geochemistry: Topsoil geochemical mapping providing an essential benchmark for assessing
+      levels of inorganic elements in soil and their origins
+    london-earth: High-resolution geochemical baseline mapping for topsoils across Greater London
+    soil-chemistry-for-environmental-assessments: Derived mapping that estimates natural background levels
+      of potentially harmful elements in UK soil, providing high-resolution data of their distribution
+      in 23 major urban areas
+- slug: hazards
+  title: Hazards
+  intro: BGS’s hazard products offer assessments of susceptibility to ground stability hazards considering
+    natural ground movement, ground movement associated with historic mineral workings, property receptor
+    characteristics and climate change. Geochemical hazard products assess where natural radioactive gases
+    may occur in elevated concentrations, aligned to UK legislation. Hydrogeological hazard products provide
+    information on susceptibility to groundwater flooding, river erosion and geological indicators of
+    past flooding. Coastal hazard products provide an assessment of the vulnerability of the UK coastline
+    to coastal change, flooding and erosion by combining geological, geomorphological and coastal process
+    information.
+  products:
+  - geocoast
+  - geoclimate-shrink-swell
+  - geological-indicators-of-flooding
+  - geoscour
+  - geosure
+  - geosure-debris-flow-susceptibility-model
+  - geosure-insurance-and-lenders-product
+  - geosure-shrink-swell-3d-for-london
+  - groundwater-flooding
+  - mining-hazard-not-including-coal
+  - property-subsidence-assessment
+  - radon-potential
+  taglines:
+    geocoast: Assessment the vulnerability of the coastline of Great Britain to coastal change, flooding
+      and erosion
+    geoclimate-shrink-swell: Projected future change in susceptibility of clay shrink–swell ground movement
+      due to climate change
+    geological-indicators-of-flooding: Identification of landforms and sediments created by past flood
+      events
+    geoscour: Assessment of susceptibility of river channels and adjacent land to erosion
+    geosure: Assessment of natural susceptibility of geological deposits to potential ground movement
+- slug: hydrogeology
+  title: Hydrogeology
+  intro: BGS’s hydrogeology products provide information on aquifer types and vulnerability, groundwater
+    levels, the permeability of geological deposits and their suitability for hosting sustainable drainage
+    systems.
+  products:
+  - aquifer-designation
+  - depth-to-groundwater
+  - groundwater-vulnerability
+  - hydrogeological-maps-of-scotland
+  - infiltration-suds-map
+  - permeability
+  taglines:
+    aquifer-designation: Classification of bedrock and superficial aquifers for England and Wales
+    depth-to-groundwater: Modelled assessment of depth to the water table
+    groundwater-vulnerability: Classification of susceptibility to contamination of groundwater in England
+      and Wales
+    hydrogeological-maps-of-scotland: Overview of groundwater characteristics across Scotland
+    infiltration-suds-map: Assessment of the suitability of the ground for infiltration-based sustainable
+      drainage systems
+    permeability: Assessment of the infiltration potential and permeability characteristics of superficial
+      deposits and bedrock geology
+- slug: minerals
+  title: Minerals
+  intro: BGS’s minerals products catalogue active, inactive and historical mineral working locations and
+    map the extent of potential mineral resources for various commodities across Great Britain.
+  products:
+  - britpits
+  - mineral-resources
+  taglines:
+    britpits: Database of active, inactive and historical mines, quarries and mineral extraction sites
+    mineral-resources: Assessment of the location and extent of potential mineral resources

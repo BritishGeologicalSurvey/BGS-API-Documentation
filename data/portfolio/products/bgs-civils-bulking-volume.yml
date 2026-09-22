@@ -1,0 +1,75 @@
+name: 'BGS Civils: bulking volume'
+slug: bgs-civils-bulking-volume
+theme: engineering-geology
+portfolio_pages:
+- 21
+- 22
+overview: 'BGS Civils: bulking volume provides estimated bulking and compaction factors for geological
+  materials across Great Britain. It is derived from BGS’s 1:50 000-scale geological mapping and engineering
+  geology expertise, and gives indicative values for how different soil and rock types change in volume
+  when excavated, transported, stockpiled or compacted. The dataset is designed for use in civil engineering,
+  earthworks planning, infrastructure design and environmental assessment, helping users anticipate material
+  behaviour before intrusive investigation. The dataset is part of the wider BGS Civils suite, which provides
+  engineering-relevant geological intelligence for early-stage design, asset management and risk assessment.'
+benefits:
+- text: Bulking factors compiled from scientific literature and applied nationally
+- text: Early estimates of cut and fill volumes before site investigation
+- text: Indicative bulking and compaction behaviour for a wide range of geological materials
+- text: Reduced uncertainty in material handling, transport and disposal planning
+- text: Better forecasting of stockpile sizes, haulage requirements and landfill needs
+- text: Improved environmental and carbon assessments, as material movement is a major contributor to
+    project emissions
+features:
+- text: National coverage across Great Britain
+- text: 1:50 000 scale (±50 m)
+- text: Bulking and compaction factors for a wide range of rock and sediment geological materials sourced
+    from scientific literature
+- text: GIS vector format for ease of geospatial analysis
+- text: Consistent classification based on BGS’s engineering geology expertise and geotechnical literature
+- text: Part of the BGS Civils suite, which can be combined with datasets about geological materials and
+    their engineering characteristics
+licencing:
+- heading: Indicative pricing for internal business use
+  text: 'BGS Civils bundle: £0.58'
+- heading: null
+  text: 'Individual layers: £0.35'
+- heading: null
+  text: Prices per km²
+- heading: null
+  text: (Subject to number of users, licence fee and data preparation fee.)
+- heading: null
+  text: Please get in touch (digitaldata@bgs.ac.uk) for further information on using BGS data for other
+    purposes, including re-selling.
+- heading: Access via a BGS data re-seller
+  text: Find a full list of BGS re-sellers on our website.
+target_markets:
+- text: Civil and geotechnical engineering consultants
+- text: Earthworks contractors
+- text: Infrastructure owners and designers
+- text: Environmental and carbon assessment specialists
+- text: Local authorities and planners
+challenges:
+- text: Uncertainty estimating cut, fill and stockpile volumes without indicative bulking factors
+- text: Increased costs from insufficient space for stockpiles or unexpected disposal costs
+- text: Fragmented or inconsistent data on bulking factors leading to inconsistent assumptions across
+    projects
+- text: Limited early-stage ground information ahead of site investigation
+- text: Inaccurate estimates hinder early carbon modelling for environmental and carbon accounting
+use_cases:
+- text: 'Highway or rail corridor design: estimating cut and fill balance along long linear routes to
+    optimise haulage and reduce carbon emissions'
+- text: 'Site redevelopment: predicting how much excavated material will expand when removed from foundations,
+    basements or service trenches'
+- text: 'Stockpile planning: determining the land area required to store excavated material during construction'
+- text: 'Landfill and disposal forecasting: estimating the volume of material requiring off-site disposal
+    once bulking is accounted for'
+- text: 'Carbon modelling: using bulking estimates to calculate haulage distances, fuel use and embodied
+    carbon'
+- text: 'Early-stage risk assessment: identifying geological units likely to produce unexpectedly high
+    bulking or compaction behaviour'
+links:
+  web_page: https://www.bgs.ac.uk/datasets/bgs-civils-bulking-volume/
+  user_guide_source: https://www.bgs.ac.uk/download/bgs-civils-user-guide/
+  enquiry: mailto:digitaldata@bgs.ac.uk?subject=BGS%20Civils%20licence%20enquiry
+  resellers: https://www.bgs.ac.uk/information-hub/licensing/#resellers
+image: assets/products/bgs-civils-bulking-volume.webp

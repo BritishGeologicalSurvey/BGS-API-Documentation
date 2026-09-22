@@ -1,0 +1,28 @@
+# User guides hosted on this site (embedded PDFs for now).
+# When Markdown becomes the source of truth, add `source: guides/<slug>/` and the
+# PDF becomes a build output instead of a checked-in file.
+bgs-civils:
+  title: "User Guide for 'BGSCivils' – a suite of engineering properties datasets"
+  report: OR/15/065
+  year: 2015
+  file: assets/guides/OR-15-065-bgs-civils.pdf
+  covers:            # other product pages that should link to this guide
+    - bgs-civils-bulking-volume
+    - bgs-civils-corrosivity-ferrous
+    - bgs-civils-discontinuities
+    - bgs-civils-engineered-fill
+    - bgs-civils-excavatability
+    - bgs-civils-strength
+    - bgs-civils-sulfate-sulfide-potential
+    # NOT foundation conditions or resistivity: the 2015 guide predates them.
+geoclimate-shrink-swell:
+  title: "User Guide: BGS GeoClimate Shrink-Swell"
+  report: OR/25/076
+  year: 2026
+  doi: https://doi.org/10.5285/13142a27-f2b1-44e5-8ea4-252850d96b65
+  file: assets/guides/OR-25-076-geoclimate-shrink-swell.pdf
+offshore-bedrock-250k:
+  title: "User Guide: BGS Offshore Bedrock 250k"
+  report: OR/21/009
+  year: 2021
+  file: assets/guides/OR-21-009-offshore-bedrock-250k.pdf

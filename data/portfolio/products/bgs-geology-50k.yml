@@ -1,0 +1,77 @@
+name: BGS Geology 50K
+slug: bgs-geology-50k
+theme: baseline-geology
+portfolio_pages:
+- 9
+- 10
+overview: BGS Geology 50K provides 1:50 000-scale geological mapping across Great Britain. It provides
+  99 per cent bedrock coverage and 95 per cent superficial deposits coverage, derived from decades of
+  field surveys, legacy paper maps and modern digital capture. The dataset captures bedrock, superficial
+  deposits, mass-movement deposits, artificial ground and linear features. It is designed for neighbourhood
+  - to borough-scale understanding of geology.
+benefits:
+- text: National coverage and ±50 m spatial resolution support early - stage assessments where site-scale
+    mapping (for example, 1:10 000 ) is not yet required
+- text: Geological map compilation by regional geological experts from the premier provider of British
+    geological data
+- text: Accessible GIS data formats and free ‘view only’ services
+features:
+- text: 'Extensive national coverage: about 236 000 km², covering almost all of Great Britain'
+- text: 1:50 000 scale (±50 m)
+- text: 'Four thematic GIS layers:'
+  sub:
+  - bedrock geology
+  - mass-movement deposits
+  - superficial deposits
+  - artificial ground
+- text: Additional data on linear features (faults; mineral veins; coal seams; landforms, etc.)
+- text: Rich attribution provides details of lithology, lithostratigraphy and chronostratigraphy, and
+    applies the national standards of geological classification, the BGS Lexicon and the BGS Rock Classification
+    Scheme
+- text: Applies national standards of symbology and colour scheme
+- text: Regularly updated to incorporate new surveys, digital capture and improved geological interpretations
+- text: GIS vector format for ease of geospatial analysis
+- text: 'Interoperability with other BGS datasets: BGS Geology 50K is the baseline dataset from which
+    many other BGS datasets are derived'
+licencing:
+- heading: Indicative pricing for internal business use
+  text: £0.23 per km²
+- heading: null
+  text: (Subject to number of users, licence fee and data preparation fee.)
+- heading: null
+  text: Please get in touch (digitaldata@bgs.ac.uk ) for further information on using BGS data for other
+    purposes, including re-selling.
+- heading: Access via a BGS data re-seller
+  text: Find a full list of BGS re-sellers on our website.
+target_markets:
+- text: Engineering and geotechnical consultants
+- text: Urban planners and local authorities
+- text: Environmental and geohazard specialists
+- text: Mineral planners and resource managers
+- text: Academics
+challenges:
+- text: Difficulty accessing consistent geological information at national or regional scale from disparate
+    sources
+- text: Need for digital geospatial data rather than legacy paper maps
+- text: Uncertainty about subsurface conditions making early-stage assessment difficult without authoritative
+    mapping
+- text: Time-consuming compilation of robust geological evidence to meet legislative and regulatory requirements
+- text: Challenging ground conditions cause delays and cost overruns if not identified early
+- text: Complexity of national asset networks with a need to understand ground conditions for thousands
+    of distributed assets
+use_cases:
+- text: 'Regional planning: local authorities require understanding of geological constraints across borough
+    - scale areas, informing development strategies'
+- text: 'Mineral safeguarding: assess whether proposed developments may sterilise mineral resources'
+- text: 'Environmental impact assessments: consultants need to establish baseline geological conditions
+    for major infrastructure or redevelopment projects'
+- text: 'Brownfield redevelopment: identification of artificial ground helps determine remediation needs
+    and engineering constraints'
+- text: 'Natural capital and land-use reviews: geological information supports assessments of soil resources,
+    groundwater recharge and ecosystem services'
+links:
+  web_page: https://www.bgs.ac.uk/datasets/bgs-geology-50k-digmapgb/
+  user_guide_source: https://www.bgs.ac.uk/datasets/bgs-geology-50k-digmapgb/#download
+  enquiry: mailto:digitaldata@bgs.ac.uk?subject=BGS%20Geology%2050K%20licence%20enquiry
+  resellers: https://www.bgs.ac.uk/information-hub/licensing/#resellers
+image: assets/products/bgs-geology-50k.webp
