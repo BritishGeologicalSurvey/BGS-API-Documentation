@@ -1,0 +1,39 @@
+# Local testing
+#   docker compose up --build                         live-reload dev server  -> http://localhost:8000/BGS-API-Documentation/
+#   docker compose --profile preview up --build preview   production-like nginx   -> http://localhost:8080/
+#   docker compose run --rm docs python scripts/convert_notebooks.py --execute   (needs WITH_NOTEBOOK_DEPS=true)
+#
+# Behind a proxy: set HTTP_PROXY / HTTPS_PROXY in your shell or a .env file first.
+
+services:
+  docs:
+    build:
+      context: .
+      target: dev
+      args:
+        WITH_NOTEBOOK_DEPS: ${WITH_NOTEBOOK_DEPS:-false}
+        HTTP_PROXY: ${HTTP_PROXY:-}
+        HTTPS_PROXY: ${HTTPS_PROXY:-}
+        NO_PROXY: ${NO_PROXY:-}
+    image: bgs-api-docs:dev
+    ports:
+      - "8000:8000"
+    volumes:
+      - .:/docs
+    environment:
+      HTTP_PROXY: ${HTTP_PROXY:-}
+      HTTPS_PROXY: ${HTTPS_PROXY:-}
+      NO_PROXY: ${NO_PROXY:-}
+
+  preview:
+    profiles: [preview]
+    build:
+      context: .
+      target: preview
+      args:
+        HTTP_PROXY: ${HTTP_PROXY:-}
+        HTTPS_PROXY: ${HTTPS_PROXY:-}
+        NO_PROXY: ${NO_PROXY:-}
+    image: bgs-api-docs:preview
+    ports:
+      - "8080:80"

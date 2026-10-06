@@ -13,6 +13,22 @@ python scripts/convert_notebooks.py   # renders notebooks/ into docs/examples/ (
 zensical serve                        # http://localhost:8000
 ```
 
+Or run `python scripts/dev_server.py`, which does the generation, serves the site and regenerates the product pages whenever `data/*.yml` changes.
+
+### With Docker
+
+```bash
+docker compose up --build                              # dev server, live reload
+#   -> http://localhost:8000/BGS-API-Documentation/
+docker compose --profile preview up --build preview    # static build behind nginx, like GitHub Pages
+#   -> http://localhost:8080/
+```
+
+- **Behind a proxy:** set `HTTP_PROXY`, `HTTPS_PROXY` and `NO_PROXY` in your shell or a `.env` file; they're passed to the build and the container.
+- **HTTPS inspection:** drop the organisation's root CA as a `.crt` file into `docker/certs/` (git-ignored). It's added to the image's trust store and used by pip.
+- **Notebooks:** to execute them inside the container, build with `WITH_NOTEBOOK_DEPS=true docker compose build`, then run `docker compose run --rm docs python scripts/convert_notebooks.py --execute`.
+- **Windows live reload:** file-change events from Windows bind mounts don't always reach Linux containers. Edits to `data/` are polled, so they always trigger a regeneration. If edits under `docs/` don't reload, restart the container or clone the repo inside WSL2.
+
 `docs/products/` and `docs/examples/*.md` are generated. Don't edit them; they're git-ignored and rebuilt in CI.
 
 ## How content is organised

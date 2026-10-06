@@ -1,0 +1,8 @@
+.git
+site
+.cache
+.venv
+**/__pycache__
+**/.ipynb_checkpoints
+docs/products
+docker-compose.yml
